@@ -29,7 +29,7 @@
 \contentsline {subsection}{\numberline {2.2.2}Leerlastphase}{18}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{19}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Datenverarbeitung \& Generierung der Plots}{21}{section.2.3}
-\contentsline {section}{\numberline {2.4}Auswertung \& Referenzierung der Ergebnisse}{22}{section.2.4}
+\contentsline {section}{\numberline {2.4}Auswertung \& Referenzierung der Ergebnisse}{21}{section.2.4}
 \contentsline {section}{\numberline {2.5}Probandendaten}{22}{section.2.5}
 \contentsline {chapter}{\numberline {3}Resultate}{25}{chapter.3}
 \contentsline {section}{\numberline {3.1}Plots f\IeC {\"u}r die Schwellenbestimmung}{26}{section.3.1}
@@ -52,6 +52,6 @@
 \contentsline {section}{\numberline {5.3}Optimale Methode}{47}{section.5.3}
 \contentsline {section}{\numberline {5.4}Limitation}{48}{section.5.4}
 \contentsline {section}{\numberline {5.5}Fazit und Handlungsempfehlung}{48}{section.5.5}
-\contentsline {chapter}{\nonumberline Literatur}{51}{chapter*.75}
+\contentsline {chapter}{\nonumberline Literatur}{51}{chapter*.74}
 \contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{55}{appendix.A}
 \contentsline {chapter}{\numberline {B}Technische Daten des \acs {VCO2}/\acs {VO2}-Sensor-Moduls}{57}{appendix.B}
