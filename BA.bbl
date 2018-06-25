@@ -1,0 +1,1439 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Westhoff.2012}{misc}{}
+      \name{author}{7}{}{%
+        {{hash=5ea44b09758d1eac5283403695133887}{%
+           family={Westhoff},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7ec95924ce9eeb2604bdcabc8cb58787}{%
+           family={Lehnigk},
+           familyi={L\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=4083467b702dfa1fb33df8cf4d3f0583}{%
+           family={R{ü}hle},
+           familyi={R\bibinitperiod},
+           given={K.-H.},
+           giveni={K\bibinithyphendelim H\bibinitperiod}}}%
+        {{hash=e78d4842b122437aaa8452c41b197444}{%
+           family={Greiwing},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=9b5ae77572010df27c06675fdb69da0d}{%
+           family={Schomaker},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=fcde85e1874056c4f1d0c390bdf39ec2}{%
+           family={Eschenbacher},
+           familyi={E\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=b94a13fa980f03cd7074b52689a25d22}{%
+           family={Siepmann},
+           familyi={S\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{768d547d7539958cb4bda5f20ee48a03}
+      \strng{fullhash}{2cc0506b7cb2efecad8c0de11f456238}
+      \strng{bibnamehash}{768d547d7539958cb4bda5f20ee48a03}
+      \strng{authorbibnamehash}{768d547d7539958cb4bda5f20ee48a03}
+      \strng{authornamehash}{768d547d7539958cb4bda5f20ee48a03}
+      \strng{authorfullhash}{2cc0506b7cb2efecad8c0de11f456238}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{zuletzt abgerufen am 25.04.2018}
+      \field{title}{Positionspapier der AG-Spiroergometrie zu ventilatorischen und Laktatschwellen}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.mesics.de/fileadmin/user/literature/Spiroergometrie/
+      \endverb
+      \verb{url}
+      \verb https://www.mesics.de/fileadmin/user/literature/Spiroergometrie/
+      \endverb
+    \endentry
+    \entry{DSSV.2018}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=8ea2756677855cd71d58310d79e8b6bc}{%
+           family={DSSV},
+           familyi={D\bibinitperiod},
+           prefix={e.V.},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{8ea2756677855cd71d58310d79e8b6bc}
+      \strng{fullhash}{8ea2756677855cd71d58310d79e8b6bc}
+      \strng{bibnamehash}{8ea2756677855cd71d58310d79e8b6bc}
+      \strng{authorbibnamehash}{8ea2756677855cd71d58310d79e8b6bc}
+      \strng{authornamehash}{8ea2756677855cd71d58310d79e8b6bc}
+      \strng{authorfullhash}{8ea2756677855cd71d58310d79e8b6bc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{2018 - Eckdaten der deutschen Fitness-Wirtschaft}
+      \field{year}{2018}
+    \endentry
+    \entry{Loellgen.2010}{book}{}
+      \name{author}{3}{}{%
+        {{hash=63307ac0077efbe5b93baf0ede4f8741}{%
+           family={Löllgen},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4252f1d85f4574fd46670d9f6c9cee2e}{%
+           family={Erdmann},
+           familyi={E\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=3cce1860c69482342324d86b9956877d}{%
+           family={Gitt},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Springer Medizin Verlag}%
+      }
+      \strng{namehash}{fa2a220ea9276e13c34151cb1281c8be}
+      \strng{fullhash}{fa2a220ea9276e13c34151cb1281c8be}
+      \strng{bibnamehash}{fa2a220ea9276e13c34151cb1281c8be}
+      \strng{authorbibnamehash}{fa2a220ea9276e13c34151cb1281c8be}
+      \strng{authornamehash}{fa2a220ea9276e13c34151cb1281c8be}
+      \strng{authorfullhash}{fa2a220ea9276e13c34151cb1281c8be}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ergometrie - Belastungsuntersuchungen in Klinik und Praxis}
+      \field{year}{2010}
+    \endentry
+    \entry{Kroidl.2015}{book}{}
+      \name{author}{4}{}{%
+        {{hash=3c6a708d71a4136232220190c83a8532}{%
+           family={Kroidl},
+           familyi={K\bibinitperiod},
+           given={R.\bibnamedelimi F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=8cb5d93d7b8793829a28e3c66a638f16}{%
+           family={Schwarz},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7ec95924ce9eeb2604bdcabc8cb58787}{%
+           family={Lehnigk},
+           familyi={L\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=b19c8417af07d59ddd23cb2ffaf10a56}{%
+           family={Fritsch},
+           familyi={F\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Georg Thieme Verlag}%
+      }
+      \strng{namehash}{1bc0c241316ed046bccdbf2610529aba}
+      \strng{fullhash}{4f820a223c69ec3ba9601f4bcb1b9592}
+      \strng{bibnamehash}{1bc0c241316ed046bccdbf2610529aba}
+      \strng{authorbibnamehash}{1bc0c241316ed046bccdbf2610529aba}
+      \strng{authornamehash}{1bc0c241316ed046bccdbf2610529aba}
+      \strng{authorfullhash}{4f820a223c69ec3ba9601f4bcb1b9592}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kursbuch Spiroergometrie - Technik und Befundung verst{ä}ndlich gemacht}
+      \field{year}{2015}
+      \field{pages}{60 ff.\bibrangessep 83\bibrangedash 89\bibrangessep 133 ff.\bibrangessep 140\bibrangedash 146\bibrangessep 331 ff.\bibrangessep 501 ff.}
+      \range{pages}{-1}
+    \endentry
+    \entry{DeMarees.1981}{book}{}
+      \name{author}{2}{}{%
+        {{hash=612a6dfe26d61f0775ba1c95fbf715b1}{%
+           family={DeMarees},
+           familyi={D\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=4949c365c301a4cde21199b615bdd339}{%
+           family={Mester},
+           familyi={M\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Köln}%
+      }
+      \list{publisher}{1}{%
+        {Sportverlag Strauß}%
+      }
+      \strng{namehash}{124706af6eac26785e7e2260b4a97af3}
+      \strng{fullhash}{124706af6eac26785e7e2260b4a97af3}
+      \strng{bibnamehash}{124706af6eac26785e7e2260b4a97af3}
+      \strng{authorbibnamehash}{124706af6eac26785e7e2260b4a97af3}
+      \strng{authornamehash}{124706af6eac26785e7e2260b4a97af3}
+      \strng{authorfullhash}{124706af6eac26785e7e2260b4a97af3}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Sportphysiologie}
+      \field{year}{1981}
+    \endentry
+    \entry{Heck.2006}{article}{}
+      \name{author}{1}{}{%
+        {{hash=54d0be3782ba66bcdf8718c68fc0f799}{%
+           family={Heck},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{54d0be3782ba66bcdf8718c68fc0f799}
+      \strng{fullhash}{54d0be3782ba66bcdf8718c68fc0f799}
+      \strng{bibnamehash}{54d0be3782ba66bcdf8718c68fc0f799}
+      \strng{authorbibnamehash}{54d0be3782ba66bcdf8718c68fc0f799}
+      \strng{authornamehash}{54d0be3782ba66bcdf8718c68fc0f799}
+      \strng{authorfullhash}{54d0be3782ba66bcdf8718c68fc0f799}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Blickpunkt DER MANN - Wissenschaftliches Journal für Männergesundheit}
+      \field{number}{4}
+      \field{title}{Muskulärer Energiestoffwechsel und sportliche Aktivität}
+      \field{volume}{4}
+      \field{year}{2006}
+      \field{pages}{23\bibrangedash 28}
+      \range{pages}{6}
+    \endentry
+    \entry{Rassow.2008}{book}{}
+      \name{author}{4}{}{%
+        {{hash=07dfbfda48cf2dd22e3c7217f9c818bf}{%
+           family={Rassow},
+           familyi={R\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=c9519b2adde2ae6c4d7a863fc636ff5e}{%
+           family={Hauser},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=4f297178ca95a77c6ca9d8282ec4ad5e}{%
+           family={Netzker},
+           familyi={N\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=48558de384eff00487b0786d531cfd5c}{%
+           family={Deutzmann},
+           familyi={D\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Georg Thieme Verlag}%
+      }
+      \strng{namehash}{cd1df56c0ad853b019eed99a8b8a2a9d}
+      \strng{fullhash}{8d28e3816bf0323a8950e090728d90df}
+      \strng{bibnamehash}{cd1df56c0ad853b019eed99a8b8a2a9d}
+      \strng{authorbibnamehash}{cd1df56c0ad853b019eed99a8b8a2a9d}
+      \strng{authornamehash}{cd1df56c0ad853b019eed99a8b8a2a9d}
+      \strng{authorfullhash}{8d28e3816bf0323a8950e090728d90df}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Duale Reihe: Biochemie}
+      \field{year}{2008}
+      \field{pages}{90\bibrangedash 92}
+      \range{pages}{3}
+    \endentry
+    \entry{Klinke.2003}{book}{}
+      \name{author}{2}{}{%
+        {{hash=c1591dd4f61ec436a81baf7e37841483}{%
+           family={Klinke},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4be2df9bdcb8c769bc46246596157bea}{%
+           family={Silbernagl},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Georg Thieme Verlag}%
+      }
+      \strng{namehash}{951f2b3b7a32dbb497808c940021ca1b}
+      \strng{fullhash}{951f2b3b7a32dbb497808c940021ca1b}
+      \strng{bibnamehash}{951f2b3b7a32dbb497808c940021ca1b}
+      \strng{authorbibnamehash}{951f2b3b7a32dbb497808c940021ca1b}
+      \strng{authornamehash}{951f2b3b7a32dbb497808c940021ca1b}
+      \strng{authorfullhash}{951f2b3b7a32dbb497808c940021ca1b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lehrbuch der Physiologie}
+      \field{year}{2003}
+      \field{pages}{521}
+      \range{pages}{1}
+    \endentry
+    \entry{Boening.2008}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b1683b3d1d57f1c999b8d3c5dfbbf9d9}{%
+           family={Böning},
+           familyi={B\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=b1710d239342ca49134d029e3d24826f}{%
+           family={Maassen},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{723af2a9f61b37baf8590c1ae8bbc23b}
+      \strng{fullhash}{723af2a9f61b37baf8590c1ae8bbc23b}
+      \strng{bibnamehash}{723af2a9f61b37baf8590c1ae8bbc23b}
+      \strng{authorbibnamehash}{723af2a9f61b37baf8590c1ae8bbc23b}
+      \strng{authornamehash}{723af2a9f61b37baf8590c1ae8bbc23b}
+      \strng{authorfullhash}{723af2a9f61b37baf8590c1ae8bbc23b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Zeitschrift für Sportmedizin}
+      \field{number}{12}
+      \field{title}{Milchsäure und Säure-Base-Gleichgewicht}
+      \field{volume}{59}
+      \field{year}{2008}
+      \field{pages}{287\bibrangedash 291}
+      \range{pages}{5}
+    \endentry
+    \entry{Antonutto.1995}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2b71a1fc152a6ca1c91aaf45a9a30bb1}{%
+           family={Antonutto},
+           familyi={A\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=ada3ea698927337009b58d716b4f366c}{%
+           family={Di\bibnamedelima Prampero},
+           familyi={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={P.\bibnamedelimi E.},
+           giveni={P\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{81c40ad8efd8333e2e9da70bc54f8254}
+      \strng{fullhash}{81c40ad8efd8333e2e9da70bc54f8254}
+      \strng{bibnamehash}{81c40ad8efd8333e2e9da70bc54f8254}
+      \strng{authorbibnamehash}{81c40ad8efd8333e2e9da70bc54f8254}
+      \strng{authornamehash}{81c40ad8efd8333e2e9da70bc54f8254}
+      \strng{authorfullhash}{81c40ad8efd8333e2e9da70bc54f8254}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Journal of sports medicine and physical fitness}
+      \field{number}{1}
+      \field{title}{The concept of lactate threshold. A short review}
+      \field{volume}{35}
+      \field{year}{1995}
+      \field{pages}{6\bibrangedash 12}
+      \range{pages}{7}
+    \endentry
+    \entry{Moosburger.1995}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=848262d5223ef660e60a9e2554c32dbf}{%
+           family={Moosburger},
+           familyi={M\bibinitperiod},
+           given={Dr.\bibnamedelimi K.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{848262d5223ef660e60a9e2554c32dbf}
+      \strng{fullhash}{848262d5223ef660e60a9e2554c32dbf}
+      \strng{bibnamehash}{848262d5223ef660e60a9e2554c32dbf}
+      \strng{authorbibnamehash}{848262d5223ef660e60a9e2554c32dbf}
+      \strng{authornamehash}{848262d5223ef660e60a9e2554c32dbf}
+      \strng{authorfullhash}{848262d5223ef660e60a9e2554c32dbf}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{zuletzt abgerufen am 02.04.2018}
+      \field{title}{Die muskuläre Energiebereitstellung im Sport}
+      \field{year}{1995}
+      \verb{urlraw}
+      \verb http://www.dr-moosburger.at/pub/pub023.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.dr-moosburger.at/pub/pub023.pdf
+      \endverb
+    \endentry
+    \entry{Skinner.1980}{article}{}
+      \name{author}{2}{}{%
+        {{hash=40a45db53f7ecbc4377e49ad1a234223}{%
+           family={Skinner},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=0fe32e40de9bc7676714bfad8df16bef}{%
+           family={McLellan},
+           familyi={M\bibinitperiod},
+           given={T.\bibnamedelimi H.},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{96ada708a43e273e064e3e0d558cce54}
+      \strng{fullhash}{96ada708a43e273e064e3e0d558cce54}
+      \strng{bibnamehash}{96ada708a43e273e064e3e0d558cce54}
+      \strng{authorbibnamehash}{96ada708a43e273e064e3e0d558cce54}
+      \strng{authornamehash}{96ada708a43e273e064e3e0d558cce54}
+      \strng{authorfullhash}{96ada708a43e273e064e3e0d558cce54}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Research Quarterly for Exercise and Sport}
+      \field{number}{1}
+      \field{title}{The Transition from Aerobic to Anaerobic Metabolism}
+      \field{volume}{51}
+      \field{year}{1980}
+      \field{pages}{234\bibrangedash 248}
+      \range{pages}{15}
+    \endentry
+    \entry{Wasserman.1973}{article}{}
+      \name{author}{4}{}{%
+        {{hash=57eb7fab899efff9c0bfc81821bb6a09}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=96188976c8577e5c1c910886f3580a5f}{%
+           family={Whipp},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=e5002680893324d54ce10ce03221cea6}{%
+           family={Koyl},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=ad12133400b8b05136872097c91001cf}{%
+           family={Beaver},
+           familyi={B\bibinitperiod},
+           given={W.\bibnamedelimi L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \strng{namehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{fullhash}{710fe2f0427a71b8ca311a502a77e72b}
+      \strng{bibnamehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{authorbibnamehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{authornamehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{authorfullhash}{710fe2f0427a71b8ca311a502a77e72b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physiology}
+      \field{number}{2}
+      \field{title}{Anaerobic threshold and respiratory gas exchange during exercise}
+      \field{volume}{35}
+      \field{year}{1973}
+      \field{pages}{236\bibrangedash 243}
+      \range{pages}{8}
+    \endentry
+    \entry{Heck.1985}{article}{}
+      \name{author}{5}{}{%
+        {{hash=b54432158816098ff50686bfb74293ac}{%
+           family={Hollmann},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=1465034ecd90d51bb55649de7c58c96b}{%
+           family={Mader},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=54d0be3782ba66bcdf8718c68fc0f799}{%
+           family={Heck},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=40b6d7d108b6db86af676f916fb47b35}{%
+           family={Liesen},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=23a4d27c22bf61d204d51771a2f9af31}{%
+           family={Olbrecht},
+           familyi={O\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{954940a5969a749a2c07603e1d388b05}
+      \strng{fullhash}{1100f949a393c4ee074f916756c48767}
+      \strng{bibnamehash}{954940a5969a749a2c07603e1d388b05}
+      \strng{authorbibnamehash}{954940a5969a749a2c07603e1d388b05}
+      \strng{authornamehash}{954940a5969a749a2c07603e1d388b05}
+      \strng{authorfullhash}{1100f949a393c4ee074f916756c48767}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medizintechnik}
+      \field{number}{5}
+      \field{title}{Laktatdiagnostik. Die Entwicklung und praktische Bedeutung in der Sportmedizin und klinischen Leistungsdiagnostik}
+      \field{volume}{105}
+      \field{year}{1985}
+      \field{pages}{154\bibrangedash 162}
+      \range{pages}{9}
+    \endentry
+    \entry{Wasserman.2012}{book}{}
+      \name{author}{7}{}{%
+        {{hash=57eb7fab899efff9c0bfc81821bb6a09}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fd4d25b1da5b162b07303bcee70e2e21}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=2daff1a251605c3c68f26424c9cf1223}{%
+           family={Sue},
+           familyi={S\bibinitperiod},
+           given={D.\bibnamedelimi Y.},
+           giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=afa56ea12426eaecb9f34893be3b8c0d}{%
+           family={Stringer},
+           familyi={S\bibinitperiod},
+           given={W.\bibnamedelimi W.},
+           giveni={W\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=912c2ae28ac2a0f1a94edce3b3139249}{%
+           family={Sietsema},
+           familyi={S\bibinitperiod},
+           given={K.\bibnamedelimi E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=15f569fd682eaf63ed0a45bc5319ea68}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={X.\bibnamedelimi G.},
+           giveni={X\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=96188976c8577e5c1c910886f3580a5f}{%
+           family={Whipp},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Philadelphia}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{fullhash}{7ee039403a2f23b0cb8b89a821f26ba0}
+      \strng{bibnamehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{authorbibnamehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{authornamehash}{a13f57b4d15d8bf796d33bce1ce57be9}
+      \strng{authorfullhash}{7ee039403a2f23b0cb8b89a821f26ba0}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Principles of Exercise Testing and Interpretation}
+      \field{year}{2012}
+    \endentry
+    \entry{ScharhagRosenberger.2013}{article}{}
+      \name{author}{2}{}{%
+        {{hash=766756d1d170a00851775e155ac184e1}{%
+           family={Scharhag-Rosenberger},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=8230cdfc3d810830c480b54720679a8c}{%
+           family={Schommer},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{55da0c2371b25821b071e87f43bab84b}
+      \strng{fullhash}{55da0c2371b25821b071e87f43bab84b}
+      \strng{bibnamehash}{55da0c2371b25821b071e87f43bab84b}
+      \strng{authorbibnamehash}{55da0c2371b25821b071e87f43bab84b}
+      \strng{authornamehash}{55da0c2371b25821b071e87f43bab84b}
+      \strng{authorfullhash}{55da0c2371b25821b071e87f43bab84b}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Zeitschrift f{ü}r Sportmedizin}
+      \field{number}{12}
+      \field{title}{Die Spiroergometrie in der Sportmedizin}
+      \field{volume}{64}
+      \field{year}{2013}
+      \field{pages}{362\bibrangedash 365}
+      \range{pages}{4}
+    \endentry
+    \entry{Beaver.1986}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ad12133400b8b05136872097c91001cf}{%
+           family={Beaver},
+           familyi={B\bibinitperiod},
+           given={W.\bibnamedelimi L.},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=57eb7fab899efff9c0bfc81821bb6a09}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=96188976c8577e5c1c910886f3580a5f}{%
+           family={Whipp},
+           familyi={W\bibinitperiod},
+           given={B.\bibnamedelimi J.},
+           giveni={B\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc33e045d326e118a5d11bb529854f15}
+      \strng{fullhash}{cc33e045d326e118a5d11bb529854f15}
+      \strng{bibnamehash}{cc33e045d326e118a5d11bb529854f15}
+      \strng{authorbibnamehash}{cc33e045d326e118a5d11bb529854f15}
+      \strng{authornamehash}{cc33e045d326e118a5d11bb529854f15}
+      \strng{authorfullhash}{cc33e045d326e118a5d11bb529854f15}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Physiology}
+      \field{number}{6}
+      \field{title}{A new method for detecting anaerobic threshold by gas exchange}
+      \field{volume}{60}
+      \field{year}{1986}
+      \field{pages}{2020\bibrangedash 2027}
+      \range{pages}{8}
+    \endentry
+    \entry{Meyer.2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5b86957e6742b5bc9c6e3021489770e5}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=18156cf3f94974ad24a3ce6b574e0157}{%
+           family={Lucia},
+           familyi={L\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=07e1e4e27cd021429338f5a698c7f5f5}{%
+           family={Earnest},
+           familyi={E\bibinitperiod},
+           given={C.\bibnamedelimi P.},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=312d8354c3826e72bab1e70a7f3cfb18}{%
+           family={Kindermann},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{92e9bace79bed493c03128375ddd926c}
+      \strng{fullhash}{df8294eec492286518ab0a8d6504940e}
+      \strng{bibnamehash}{92e9bace79bed493c03128375ddd926c}
+      \strng{authorbibnamehash}{92e9bace79bed493c03128375ddd926c}
+      \strng{authornamehash}{92e9bace79bed493c03128375ddd926c}
+      \strng{authorfullhash}{df8294eec492286518ab0a8d6504940e}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Sports Medicine}
+      \field{title}{A Conceptual Framework for Performance Diagnosis and Training Prescription from Submaximal Gas Exchange Parameter - Theory and Application}
+      \field{volume}{26}
+      \field{year}{2005}
+      \field{pages}{38\bibrangedash 48}
+      \range{pages}{11}
+    \endentry
+    \entry{ScharhagRosenberger.2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=766756d1d170a00851775e155ac184e1}{%
+           family={Scharhag-Rosenberger},
+           familyi={S\bibinithyphendelim R\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{766756d1d170a00851775e155ac184e1}
+      \strng{fullhash}{766756d1d170a00851775e155ac184e1}
+      \strng{bibnamehash}{766756d1d170a00851775e155ac184e1}
+      \strng{authorbibnamehash}{766756d1d170a00851775e155ac184e1}
+      \strng{authornamehash}{766756d1d170a00851775e155ac184e1}
+      \strng{authorfullhash}{766756d1d170a00851775e155ac184e1}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Zeitschrift f{ü}r Sportmedizin}
+      \field{number}{6}
+      \field{title}{Spiroergometrie in der Ausdauerleistungsdiagnostik}
+      \field{volume}{61}
+      \field{year}{2010}
+      \field{pages}{146\bibrangedash 147}
+      \range{pages}{2}
+    \endentry
+    \entry{Kindermann.2004}{article}{}
+      \name{author}{1}{}{%
+        {{hash=312d8354c3826e72bab1e70a7f3cfb18}{%
+           family={Kindermann},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{312d8354c3826e72bab1e70a7f3cfb18}
+      \strng{fullhash}{312d8354c3826e72bab1e70a7f3cfb18}
+      \strng{bibnamehash}{312d8354c3826e72bab1e70a7f3cfb18}
+      \strng{authorbibnamehash}{312d8354c3826e72bab1e70a7f3cfb18}
+      \strng{authornamehash}{312d8354c3826e72bab1e70a7f3cfb18}
+      \strng{authorfullhash}{312d8354c3826e72bab1e70a7f3cfb18}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Deutsche Zeitschrift f{ü}r Sportmedizin}
+      \field{number}{6}
+      \field{title}{Anaerobe Schwelle}
+      \field{volume}{55}
+      \field{year}{2004}
+      \field{pages}{161\bibrangedash 162}
+      \range{pages}{2}
+    \endentry
+    \entry{Diefenthaeler.2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=8cbb0d72969ab88a2413a23de03f7db6}{%
+           family={Diefenthaeler},
+           familyi={D\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=5d0c21a5025ddd98cea1a1f6d29716ab}{%
+           family={Sakugawa},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=14c8f57c8fc5c44ca7ac2504422edb09}{%
+           family={Dellagrana},
+           familyi={D\bibinitperiod},
+           given={R.\bibnamedelimi A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=0d248ff91a1b18e70f0b11d3807c944f}{%
+           family={Follmer},
+           familyi={F\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=7aad7d9dfa87a8e5028604a4508272a9}{%
+           family={Lemos},
+           familyi={L\bibinitperiod},
+           given={E.\bibnamedelimi C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=a6419c61f6401e14631afb62cec0cfcd}{%
+           family={Campos},
+           familyi={C\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{3b25b333d3840cf9bc821abf7cd32172}
+      \strng{fullhash}{dbf2ab9d50f1860fffed93bbe52df8a1}
+      \strng{bibnamehash}{3b25b333d3840cf9bc821abf7cd32172}
+      \strng{authorbibnamehash}{3b25b333d3840cf9bc821abf7cd32172}
+      \strng{authornamehash}{3b25b333d3840cf9bc821abf7cd32172}
+      \strng{authorfullhash}{dbf2ab9d50f1860fffed93bbe52df8a1}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Revista Brasileira de Cineantropometria \& Desempenho Humano}
+      \field{number}{1}
+      \field{title}{Is respiratory exchange ratio an alternative to estimate anaerobic theshold in trained runners}
+      \field{volume}{19}
+      \field{year}{2017}
+    \endentry
+    \entry{Zagatto.2012}{article}{}
+      \name{author}{5}{}{%
+        {{hash=e7446be04b595ed1a2ef3b0f4e25d3a1}{%
+           family={Zagatto},
+           familyi={Z\bibinitperiod},
+           given={A.\bibnamedelimi M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=4b6abe3eaf7fde20870b3b4aadb47796}{%
+           family={Miyagi},
+           familyi={M\bibinitperiod},
+           given={W.\bibnamedelimi E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5d0c21a5025ddd98cea1a1f6d29716ab}{%
+           family={Sakugawa},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=4d649913d2b55820ac0f4d17b4e7f8c8}{%
+           family={Kaminagakura},
+           familyi={K\bibinitperiod},
+           given={E.\bibnamedelimi I.},
+           giveni={E\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=77c4de86a38c3fa005b84823d3050ce4}{%
+           family={Papoti},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{b2be8199e7a04a1152d6cf57bff5ec88}
+      \strng{fullhash}{15494a5e24acbb94ca8b9865a41da10b}
+      \strng{bibnamehash}{b2be8199e7a04a1152d6cf57bff5ec88}
+      \strng{authorbibnamehash}{b2be8199e7a04a1152d6cf57bff5ec88}
+      \strng{authornamehash}{b2be8199e7a04a1152d6cf57bff5ec88}
+      \strng{authorfullhash}{15494a5e24acbb94ca8b9865a41da10b}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Exercise Physiology Online}
+      \field{number}{5}
+      \field{title}{Aerobic endurance measurement by respiratory exchange ratio during a cycle ergometer graded exercise test}
+      \field{volume}{15}
+      \field{year}{2012}
+      \field{pages}{49\bibrangedash 57}
+      \range{pages}{9}
+    \endentry
+    \entry{Leti.2012}{article}{}
+      \name{author}{4}{}{%
+        {{hash=9257310c9e070e6b59dbf0ec44f5d617}{%
+           family={Leti},
+           familyi={L\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=69b5dee15ad3a102e07f6b654b3f66b9}{%
+           family={Mendelson},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=98e81caf89948f00945b1998a00c530a}{%
+           family={Laplaud},
+           familyi={L\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=04c6d9a6f79b66642cfc0771d66520c5}{%
+           family={Flore},
+           familyi={F\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{d970e5e81979674aaed0ad480c493be1}
+      \strng{fullhash}{df9827298e306524ecaa55e6e14c8872}
+      \strng{bibnamehash}{d970e5e81979674aaed0ad480c493be1}
+      \strng{authorbibnamehash}{d970e5e81979674aaed0ad480c493be1}
+      \strng{authornamehash}{d970e5e81979674aaed0ad480c493be1}
+      \strng{authorfullhash}{df9827298e306524ecaa55e6e14c8872}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sports Sciences}
+      \field{number}{6}
+      \field{title}{Prediction of maximal lactate steady state in runners with an incremental test on the field}
+      \field{volume}{30}
+      \field{year}{2012}
+      \field{pages}{609\bibrangedash 616}
+      \range{pages}{8}
+    \endentry
+    \entry{Tzvetkov.2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f151e75be84bc112067ad3f1f518dc99}{%
+           family={Tzvetkov},
+           familyi={T\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0858deaec67b1bb9178b1d20d55c60dc}{%
+           family={Bonov},
+           familyi={B\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=3e723494c5b34c94ba14a4ac9a1c53fb}{%
+           family={Dasheva},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{9986eea5040e84a202c71f1bd6c411f2}
+      \strng{fullhash}{9986eea5040e84a202c71f1bd6c411f2}
+      \strng{bibnamehash}{9986eea5040e84a202c71f1bd6c411f2}
+      \strng{authorbibnamehash}{9986eea5040e84a202c71f1bd6c411f2}
+      \strng{authornamehash}{9986eea5040e84a202c71f1bd6c411f2}
+      \strng{authorfullhash}{9986eea5040e84a202c71f1bd6c411f2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Facta universitatis - series: Physical Education and Sport}
+      \field{number}{2}
+      \field{title}{Problems in determination of the ventilatory threshold based on the respiratory exchange ratio in high-level athletes}
+      \field{volume}{6}
+      \field{year}{2008}
+      \field{pages}{115\bibrangedash 123}
+      \range{pages}{9}
+    \endentry
+    \entry{Hollmann.2006}{book}{}
+      \name{author}{3}{}{%
+        {{hash=b54432158816098ff50686bfb74293ac}{%
+           family={Hollmann},
+           familyi={H\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=125f0d9f4b34fe3708b3e2190e1c1436}{%
+           family={Strüder},
+           familyi={S\bibinitperiod},
+           given={H.\bibnamedelimi K.},
+           giveni={H\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=43e5b07fc2aba323436294b076b9f8c3}{%
+           family={Tagarakis},
+           familyi={T\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Schattauer Verlag}%
+      }
+      \strng{namehash}{295e8c9f692e6449f5d1c2f0efd122b2}
+      \strng{fullhash}{295e8c9f692e6449f5d1c2f0efd122b2}
+      \strng{bibnamehash}{295e8c9f692e6449f5d1c2f0efd122b2}
+      \strng{authorbibnamehash}{295e8c9f692e6449f5d1c2f0efd122b2}
+      \strng{authornamehash}{295e8c9f692e6449f5d1c2f0efd122b2}
+      \strng{authorfullhash}{295e8c9f692e6449f5d1c2f0efd122b2}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Spiroergometrie - kardiopulmonale Leistungsdiagnostik des Gesunden und Kranken}
+      \field{year}{2006}
+    \endentry
+    \entry{Marino.2001}{article}{}
+      \name{author}{7}{}{%
+        {{hash=85d57ae0d49a30081d71b1bf497ad3c4}{%
+           family={Marino},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi E.},
+           giveni={F\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=5108fea460269c786e5a7f23526ace4a}{%
+           family={Mbambo},
+           familyi={M\bibinitperiod},
+           given={Z.},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=f7f510e06653091afc54eed94eace158}{%
+           family={Kortekaas},
+           familyi={K\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=02d1f5bc3a90fae90501f3166064d3e4}{%
+           family={Wilson},
+           familyi={W\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=e30763460c2aa726c19d1e782e2121f3}{%
+           family={Lambert},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi I.},
+           giveni={M\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=ed261b88600dd787943c1e8c0edf3f1f}{%
+           family={Noakes},
+           familyi={N\bibinitperiod},
+           given={T.\bibnamedelimi D.},
+           giveni={T\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=102921dfe853c66f7c2d513f20fa8dbe}{%
+           family={Dennis},
+           familyi={D\bibinitperiod},
+           given={S.\bibnamedelimi C.},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b64200d978301b59c6e4167274d4c53}
+      \strng{fullhash}{b67b2b60ba165e5dee354a3497d13e7a}
+      \strng{bibnamehash}{4b64200d978301b59c6e4167274d4c53}
+      \strng{authorbibnamehash}{4b64200d978301b59c6e4167274d4c53}
+      \strng{authornamehash}{4b64200d978301b59c6e4167274d4c53}
+      \strng{authorfullhash}{b67b2b60ba165e5dee354a3497d13e7a}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Applied Physiology}
+      \field{title}{Influence of ambient temperature on plasma ammonia and lactate accumulation during prolonged submaximal and self-paced running}
+      \field{volume}{86}
+      \field{year}{2001}
+      \field{pages}{71\bibrangedash 78}
+      \range{pages}{8}
+    \endentry
+    \entry{Ivy.1981}{article}{}
+      \name{author}{5}{}{%
+        {{hash=719047f9757488dbcbe87ebd410c70ce}{%
+           family={Ivy},
+           familyi={I\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=776c5af6491c92ba6610ec80ae7c5093}{%
+           family={Costill},
+           familyi={C\bibinitperiod},
+           given={D.\bibnamedelimi L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=46daad81c0eee3b439932b38678724d5}{%
+           family={Van\bibnamedelima Handel},
+           familyi={V\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={P.\bibnamedelimi J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=a6658f3332f4138a03797621d9d7f978}{%
+           family={Essig},
+           familyi={E\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=f50a2dabb03cefb87c1c46d6cd29bfe6}{%
+           family={Lower},
+           familyi={L\bibinitperiod},
+           given={R.\bibnamedelimi W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc85579cc12b0daa25783d361cb72c6d}
+      \strng{fullhash}{f73c3708a73ba0cdd99e49922b9d6ed5}
+      \strng{bibnamehash}{bc85579cc12b0daa25783d361cb72c6d}
+      \strng{authorbibnamehash}{bc85579cc12b0daa25783d361cb72c6d}
+      \strng{authornamehash}{bc85579cc12b0daa25783d361cb72c6d}
+      \strng{authorfullhash}{f73c3708a73ba0cdd99e49922b9d6ed5}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Sports Medicine}
+      \field{title}{Alteration in the lactate threshold with changes in substrate availability}
+      \field{volume}{2}
+      \field{year}{1981}
+      \field{pages}{139\bibrangedash 142}
+      \range{pages}{4}
+    \endentry
+    \entry{Wonisch.2008}{article}{}
+      \name{author}{8}{}{%
+        {{hash=b2353224a8a373c446b0b0026ccaa8e2}{%
+           family={Wonisch},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=177041af0c087871e896cf117c444eb8}{%
+           family={Berent},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=f10dda096223bb8cbfaf2f8922eecc2d}{%
+           family={Klicpera},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7cdd632b2e1994723c879aa4bdfe436d}{%
+           family={Laimer},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=73fddce7d6d41fcf894bebdb68dc57a2}{%
+           family={Marko},
+           familyi={M\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=c3a0c548711a0204638fec5ac4ace163}{%
+           family={Pokan},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=57c53ed5e55e6e9749d02bfa66a8e3ca}{%
+           family={Schmid},
+           familyi={S\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=5e7af5a12c9bace045a3b250110dcba5}{%
+           family={Schwann},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a820ac63434382647a9761611997f711}
+      \strng{fullhash}{ed1d3a1f440da2aa29e0428946147f69}
+      \strng{bibnamehash}{a820ac63434382647a9761611997f711}
+      \strng{authorbibnamehash}{a820ac63434382647a9761611997f711}
+      \strng{authornamehash}{a820ac63434382647a9761611997f711}
+      \strng{authorfullhash}{ed1d3a1f440da2aa29e0428946147f69}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Austrian Journal of Cardiology}
+      \field{title}{Praxisleitlinien Ergometrie}
+      \field{volume}{15}
+      \field{year}{2008}
+      \field{pages}{3\bibrangedash 17}
+      \range{pages}{15}
+    \endentry
+    \entry{Koch.2009}{article}{}
+      \name{author}{9}{}{%
+        {{hash=e4019cfe5df3f3a9c78e3ed299fa0149}{%
+           family={Koch},
+           familyi={K\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=5f12138b939ba46f7acd2b482f1fde86}{%
+           family={Schäper},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d602db685d4f35561ba30329943445d9}{%
+           family={Ittermann},
+           familyi={I\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=39efeea69b500cc949c0c68bcc9ea983}{%
+           family={Spielhagen},
+           familyi={S\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f2da9e3ffbf624b7c32dc8a6fe1f1597}{%
+           family={Dörr},
+           familyi={D\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fde29851b5c79592a1b3eedce4a5d25b}{%
+           family={Völzke},
+           familyi={V\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7bf4db2f87e2bace70303e62cc40f158}{%
+           family={Opitz},
+           familyi={O\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=fee2d955f668818f1b7267923dcba36f}{%
+           family={Ewert},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=d5211b8e800724b94d23cef9d6fdf6d1}{%
+           family={Gläser},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{ccb85a15584c76d2a7a3272ff65ff541}
+      \strng{fullhash}{be3e2b0e74295a12f6008a2b16dedaf6}
+      \strng{bibnamehash}{ccb85a15584c76d2a7a3272ff65ff541}
+      \strng{authorbibnamehash}{ccb85a15584c76d2a7a3272ff65ff541}
+      \strng{authornamehash}{ccb85a15584c76d2a7a3272ff65ff541}
+      \strng{authorfullhash}{be3e2b0e74295a12f6008a2b16dedaf6}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Respiratory Journal}
+      \field{title}{Reference values for cardiopulmonary exercise testing in healthy volunteers: the SHIP study}
+      \field{volume}{33}
+      \field{year}{2009}
+      \field{pages}{389\bibrangedash 397}
+      \range{pages}{9}
+    \endentry
+    \entry{Midgley.2008}{article}{}
+      \name{author}{5}{}{%
+        {{hash=c3f058f662c3a0994dd7313656c9b367}{%
+           family={Midgley},
+           familyi={M\bibinitperiod},
+           given={A.\bibnamedelimi W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=d5b03b8617769bcccb9847dc0a8e607b}{%
+           family={Bentley},
+           familyi={B\bibinitperiod},
+           given={D.\bibnamedelimi J.},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6fbaace1f9d692a25c084cb47222e52b}{%
+           family={Luttikholt},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=6fc6a468887ce89a0931ed253d99da59}{%
+           family={McNaughton},
+           familyi={M\bibinitperiod},
+           given={L.\bibnamedelimi R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=35d190c7573c7a18e222a573fa009829}{%
+           family={Millet},
+           familyi={M\bibinitperiod},
+           given={G.\bibnamedelimi P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f5939e2f0e7537e7b4f0e03ddd79a8a}
+      \strng{fullhash}{c47b88052db9f14ff2c17432206ce9c6}
+      \strng{bibnamehash}{9f5939e2f0e7537e7b4f0e03ddd79a8a}
+      \strng{authorbibnamehash}{9f5939e2f0e7537e7b4f0e03ddd79a8a}
+      \strng{authornamehash}{9f5939e2f0e7537e7b4f0e03ddd79a8a}
+      \strng{authorfullhash}{c47b88052db9f14ff2c17432206ce9c6}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sports Medicine}
+      \field{number}{6}
+      \field{title}{Challenging a Dogma of Exercise Physiology}
+      \field{volume}{38}
+      \field{year}{2008}
+      \field{pages}{441\bibrangedash 447}
+      \range{pages}{7}
+    \endentry
+    \entry{Trappe.2000}{article}{}
+      \name{author}{2}{}{%
+        {{hash=022836dcf32706bbb561e18b0dd5edf2}{%
+           family={Trappe},
+           familyi={T\bibinitperiod},
+           given={H.-J.},
+           giveni={H\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=63307ac0077efbe5b93baf0ede4f8741}{%
+           family={Löllgen},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ba3eff50f74d7d8d23fa60c41381e5a4}
+      \strng{fullhash}{ba3eff50f74d7d8d23fa60c41381e5a4}
+      \strng{bibnamehash}{ba3eff50f74d7d8d23fa60c41381e5a4}
+      \strng{authorbibnamehash}{ba3eff50f74d7d8d23fa60c41381e5a4}
+      \strng{authornamehash}{ba3eff50f74d7d8d23fa60c41381e5a4}
+      \strng{authorfullhash}{ba3eff50f74d7d8d23fa60c41381e5a4}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Kardiologie}
+      \field{title}{Leitlinien zur Ergometrie}
+      \field{volume}{89}
+      \field{year}{2000}
+      \field{pages}{821\bibrangedash 837}
+      \range{pages}{17}
+    \endentry
+    \entry{Finger.2013}{article}{}
+      \name{author}{8}{}{%
+        {{hash=9a4d98dfa19296779f84e57883d855e6}{%
+           family={Finger},
+           familyi={F\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=d2c8d1db5b15751649a5924dd4b6c3bf}{%
+           family={Gößwald},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8fd6576b86e0aa442a8fd167c5e2eb22}{%
+           family={Härtel},
+           familyi={H\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=53e999089eb86bf2cf5d09aee96b03f3}{%
+           family={Müters},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0c8e496a6319fded9b43881175d99a2c}{%
+           family={Krug},
+           familyi={K\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=bb0fafeccf3756eee98ce636d3bc5184}{%
+           family={Hölling},
+           familyi={H\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=f9cc017dc25a65de6d9ba6a04ac44af0}{%
+           family={Kuhnert},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=af2dd4695f048de46ab274c163094007}{%
+           family={Bös},
+           familyi={B\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c793fe820a2be27d33a5fc47d7b29e4}
+      \strng{fullhash}{c054b1ef2aabb72ae462a21d0b5bed3d}
+      \strng{bibnamehash}{9c793fe820a2be27d33a5fc47d7b29e4}
+      \strng{authorbibnamehash}{9c793fe820a2be27d33a5fc47d7b29e4}
+      \strng{authornamehash}{9c793fe820a2be27d33a5fc47d7b29e4}
+      \strng{authorfullhash}{c054b1ef2aabb72ae462a21d0b5bed3d}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bundesgesundheitsblatt - Gesundheitsforschung - Gesundheitsschutz}
+      \field{number}{5--6}
+      \field{title}{Messung der kardiorespiratorischen Fitness in der Studie zur Gesundheit Erwachsener in Deutschland (DEGS1)}
+      \field{volume}{56}
+      \field{year}{2013}
+      \field{pages}{885\bibrangedash 893}
+      \range{pages}{9}
+    \endentry
+    \entry{Loe.2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2f0ff298707b532486496cce094de545}{%
+           family={Loe},
+           familyi={L\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=95146ad9da8180dc41a54df3e6870f15}{%
+           family={Steinshamn},
+           familyi={S\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=93082b4dcd4deb7b0623273880cce724}{%
+           family={Wisløff},
+           familyi={W\bibinitperiod},
+           given={U.},
+           giveni={U\bibinitperiod}}}%
+      }
+      \strng{namehash}{bf8bdee04611c39de4e149571509a2cd}
+      \strng{fullhash}{bf8bdee04611c39de4e149571509a2cd}
+      \strng{bibnamehash}{bf8bdee04611c39de4e149571509a2cd}
+      \strng{authorbibnamehash}{bf8bdee04611c39de4e149571509a2cd}
+      \strng{authornamehash}{bf8bdee04611c39de4e149571509a2cd}
+      \strng{authorfullhash}{bf8bdee04611c39de4e149571509a2cd}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS One}
+      \field{number}{11}
+      \field{title}{Cardio-Respiratory Reference Data in 4631 Healthy Men and Women 20-90 Years: The HUNT 3 Fitness Study}
+      \field{volume}{9}
+      \field{year}{2014}
+    \endentry
+    \entry{Ruehle.2012}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=7d85efc751324eefbb60c00e45bb9145}{%
+           family={Rühle},
+           familyi={R\bibinitperiod},
+           given={K.\bibnamedelimi H.},
+           giveni={K\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=5ea44b09758d1eac5283403695133887}{%
+           family={Westhoff},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=f17f9ca385921edb31335ed966f06e42}{%
+           family={Meyer},
+           familyi={M\bibinitperiod},
+           given={F.\bibnamedelimi J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b0218e333641bca85c4ce1c4bbcdf527}{%
+           family={Kroidl},
+           familyi={K\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8c5bf69f5d17273190c332f50b432c4f}{%
+           family={Trötschler},
+           familyi={T\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{772787ad122e097a6d1173706b46066a}
+      \strng{fullhash}{f541adfba982f6695d3ba9631bac9358}
+      \strng{bibnamehash}{772787ad122e097a6d1173706b46066a}
+      \strng{authorbibnamehash}{772787ad122e097a6d1173706b46066a}
+      \strng{authornamehash}{772787ad122e097a6d1173706b46066a}
+      \strng{authorfullhash}{f541adfba982f6695d3ba9631bac9358}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{zuletzt abgerufen am 25.05.2018}
+      \field{title}{Plausibilitätsprüfungen in der Spiroergometrie}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb http://www.ag-spiroergometrie.de/uploads/media/Plausibilit%C3%A4tCPXKorrekturen.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.ag-spiroergometrie.de/uploads/media/Plausibilit%C3%A4tCPXKorrekturen.pdf
+      \endverb
+    \endentry
+    \entry{Biochemie1}{misc}{}
+      \name{author}{2}{}{%
+        {{hash=f7799fb4ca6d0a7389de584e9c890332}{%
+           family={Brandenburger},
+           familyi={B\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=f740d341f0eb656be26f6638d0e8b5f9}{%
+           family={Königshoff},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Stuttgart}%
+      }
+      \list{publisher}{1}{%
+        {Georg Thieme Verlag}%
+      }
+      \strng{namehash}{4ecd1472930dff0eeed4ca66c95defe5}
+      \strng{fullhash}{4ecd1472930dff0eeed4ca66c95defe5}
+      \strng{bibnamehash}{4ecd1472930dff0eeed4ca66c95defe5}
+      \strng{authorbibnamehash}{4ecd1472930dff0eeed4ca66c95defe5}
+      \strng{authornamehash}{4ecd1472930dff0eeed4ca66c95defe5}
+      \strng{authorfullhash}{4ecd1472930dff0eeed4ca66c95defe5}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{zuletzt abgerufen am 15.05.2018}
+      \field{title}{Endspurt Vorklinik: Biochemie 1}
+      \field{year}{2013}
+      \verb{urlraw}
+      \verb https://viamedici.thieme.de/lernmodule/biochemie/glykolyse+%C3%BCbersicht+reaktionen+und+energiebilanz
+      \endverb
+      \verb{url}
+      \verb https://viamedici.thieme.de/lernmodule/biochemie/glykolyse+%C3%BCbersicht+reaktionen+und+energiebilanz
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

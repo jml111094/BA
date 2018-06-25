@@ -1,0 +1,68 @@
+\documentclass[
+pdftex,
+paper=a4,
+11pt,
+%BCOR=10mm,
+%DIV=10,
+twoside,
+open=right,
+parskip=half-,
+headinclude=true,
+headsepline,
+%footsepline,
+titlepage=true,
+%chapterprefix=on,
+%appendixprefix=on,
+headings=small,
+bibliography=totoc,
+listof=totoc,
+listof=nochaptergap,
+%leqno,
+%fleqn,
+%draft=true,
+numbers=noenddot,
+ngerman
+]{scrbook}
+%\evensidemargin0mm
+%\oddsidemargin15mm
+
+\input{header.tex}
+\input{macros.tex}
+
+
+
+\begin{document} 
+	
+	\frontmatter
+	\input{Deckblatt.tex}
+	\onehalfspacing
+	\input{Vorspann.tex}
+	\cleardoubleemptypage
+	\pagenumbering{Roman} 
+	\setcounter{page}{1}
+	\tableofcontents
+	\input{Acronym.tex}
+	\clearpage
+	\listoffigures
+	\listoftables
+	\input{Zusammenfassung.tex}
+	
+	\mainmatter
+	\input{Einfuehrung.tex}
+	\input{Methode.tex}
+	\input{Resultate.tex}
+	\input{Auswertung.tex}
+	\input{Diskussion.tex}
+		
+	\appendix
+	\input{Anhang.tex}
+	
+	\backmatter
+%	\input{Nachspann.tex}	
+	
+\end{document}
+
+
+
+\endinput
+

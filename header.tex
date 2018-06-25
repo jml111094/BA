@@ -1,0 +1,147 @@
+\usepackage{hyphsubst}
+\HyphSubstIfExists{ngerman-x-latest}{%
+	\HyphSubstLet{ngerman}{ngerman-x-latest}}{}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage{lmodern}
+\usepackage{times}
+\fontfamily{ptm}\selectfont
+\KOMAoptions{DIV=last}
+\usepackage[autostyle=true,german=quotes]{csquotes}
+\usepackage[final,babel]{microtype}
+
+\setkomafont{disposition}{\normalcolor\bfseries}
+
+\usepackage{chngcntr}
+\counterwithout{figure}{chapter}
+\counterwithout{table}{chapter}
+
+\usepackage{etoolbox}
+\usepackage{tabularx}
+\usepackage{tabulary}
+\usepackage{colortbl}
+\usepackage{subcaption}
+\captionsetup[subfigure]{list=true, font=small, labelfont=bf, 
+	labelformat=brace, position=top}
+\usepackage{multirow}
+\usepackage{enumitem}
+\newlist{titemize}{itemize}{1}																% neue Listenumgebung für Tabellen 
+\setlist[titemize]{nosep, label=\textbullet, after=\strut, align=left, leftmargin=*}
+
+\DeclareMicrotypeSet*[tracking]{my}%
+  { font = */*/*/sc/* }%
+\SetTracking{ encoding = *, shape = sc }{ 45 }
+
+
+\usepackage[
+backend=biber,
+style=iso-numeric,
+autolang=other,
+bibencoding=UTF8,
+maxnames=3
+]{biblatex}
+
+\DefineBibliographyStrings{ngerman}{andothers={et\ al\adddot}}
+\addbibresource{Referenzen.bib}
+
+
+\usepackage[left=30mm, right=30mm]{geometry}
+\usepackage[automark]{scrlayer-scrpage}
+\pagestyle{scrheadings}																		% lebendiger Seitentitel
+
+\raggedbottom
+\setlength{\parindent}{0em}
+\setlength{\parskip}{2ex}
+
+\newcommand{\mydate}{\today}
+
+\usepackage{amsmath}																		% erweiterter Mathematiksatz
+\usepackage{amssymb}																		% weitere Mathematiksymbole
+\renewcommand\theequation{\thechapter-\arabic{equation}}
+
+\usepackage{pdflscape} 
+\usepackage[tight,nice]{units}																% ermöglicht Angabe physikal. Größen
+\usepackage[version-1-compatibility]{siunitx}
+\sisetup{detect-family, locale=DE}
+\usepackage{booktabs}
+
+\usepackage{dcolumn}																		% für gezielte Ausrichtung von Zahlen in Tabellen
+
+\usepackage{url}																			% für url-Angaben
+
+\usepackage{float}
+\usepackage{wasysym}
+
+\usepackage{relsize}																		% Schriftgrüßen nicht absolut, sondern relativ angeben
+\usepackage{setspace}																		% 1,5 facher Zeilenabstand
+
+\usepackage[margin=10pt,font=small,labelfont=bf,labelsep=endash,format=hang,figurename={Abb.}, tablename={Tab.}
+]{caption}																					% für schönere Unterschriften bei Abbildungen und Tabellen
+
+\usepackage{calc}
+\usepackage[printonlyused]{acronym}
+
+\usepackage[section]{placeins}																% Einfügen einer "FloatBarrier"
+
+\usepackage[final]{graphicx}																% Paket zum Einbinden von Bildern, Option "final" hebt die globale "draft" bei Abbildungen auf
+
+\usepackage{textpos}																		% für millimetergenaue Paltzierung von Text(Grafik-)blöcken
+\usepackage[update]{epstopdf}
+
+\usepackage{lipsum}																			% Paket für "Lorem Ipsum" Paragraphen
+\usepackage{pdfpages}
+\usepackage[]{todonotes}
+%\usepackage{pdfcomment}
+
+\usepackage{scrhack}																		% Damit keine Warnung \float@addtolists auftritt (bei verwendung von listings)
+\usepackage{listings}
+\lstset{ %
+language=Matlab,
+frame=single,
+tabsize=4,
+breaklines=true,
+breakatwhitespace=true,
+basicstyle=\footnotesize,
+}
+\renewcommand{\lstlistingname}{Quellcode} 													% Umbennen 'Listing' nach 'Quellcode'
+\usepackage{rotating}
+
+\usepackage[german,intoc,refpage]{nomencl}
+\let\abbr\nomenclature																		% Befehl nomenclature umbenennen in abbr
+\renewcommand{\nomname}{Symbolverzeichnis}													% Abkürzungsverzeichnis soll Symbolverzeichnis heißen
+\setlength{\nomlabelwidth}{.20\hsize}
+\renewcommand{\nomlabel}[1]{#1 \dotfill}													% Punkte zw. Abkürzung und Erklärung
+\setlength{\nomitemsep}{-\parsep}															% Zeilenabstände verkleinern
+\makenomenclature																			% Verzeichnis erstellen
+
+
+
+\author{Julian-Marvin}
+\title{Evaluierung von Methoden zur ventilatorischen Schwellenbestimmung in der Spiroergometrie}
+\subject{Bachelorarbeit}
+\date{\mydate}
+\publishers{Fachhochschule Lübeck\\ --- Fachbereich Angewandte Naturwissenschaften}
+
+\usepackage{hyperref}
+\hypersetup{
+	unicode=false,
+	pdftoolbar=true,
+	pdfmenubar=true,
+	pdffitwindow=false,
+	pdfstartview={FitH},
+	pdfborder={Thema der Arbeit},
+	pdftitle={Thema der Arbeit},
+	pdfauthor={Julian-Marvin Lütten},
+	pdfsubject={Bachelorthesis},
+	pdfnewwindow=true,
+	colorlinks=true,
+	linkcolor=black,
+	citecolor=black,
+	filecolor=black,
+	urlcolor=black
+}
+
+\endinput
+
