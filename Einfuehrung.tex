@@ -11,62 +11,62 @@ Grundsätzlich werden heutzutage in der Spiroergometrie zwei von Prof. Karlman W
 \begin{figure}[H]
 	\centering
 	\includegraphics[scale=0.65]{Bilder/zahnraeder.png}
-	\caption[3-Zahnräder-Modell mit physiologischen Interaktionen im Gasaustausch]{3-Zahnräder-Modell nach K. Wasserman mit den physiologischen Interaktionen im Gasaustausch~\cite{Loellgen.2010}}
+	\caption[3-Zahnräder-Modell mit physiologischen Interaktionen im Gasaustausch]{3-Zahnräder-Modell nach K. Wasserman: Die physiologischen Interaktionen im Austausch von \acs{CO2} und \acs{O2} zwischen Lunge, Blut und Muskelzelle~\cite{Loellgen.2010}}
 	\label{pic:pic1}
 \end{figure}
 
-Ausgangspunkt der betrachteten physiologischen Prozesse ist die Atmungsventilation - also der Gasaustausch zwischen Umgebung, Lunge, Blut und Muskelzelle, wie in Abb. \ref{pic:pic1} veranschaulicht. Man kann prinzipiell zwischen "`innerer"' und "`äußerer"' Atmung bzw. peripherer und pulmonaler Zirkulation differenzieren. Die innere Atmung bezieht sich auf den molekularen Gasaustausch in den Mitochondrien. Die äußere Atmung betrifft den Transfer zwischen Blut und Lunge. Wesentlich sind hierbei die zwei in der Atemluft enthaltenen Fraktionen \ac{CO2} und \ac{O2}.
+Ausgangspunkt der betrachteten physiologischen Prozesse ist die Atmungsventilation - also der Gasaustausch zwischen Umgebung, Lunge, Blut und Muskelzelle, wie in Abb. \ref{pic:pic1} veranschaulicht. Man kann prinzipiell zwischen "`innerer"' und "`äußerer"' Atmung bzw. peripherer und pulmonaler Zirkulation differenzieren. Die innere Atmung bezieht sich auf den molekularen Gasaustausch in den Mitochondrien. Die äußere Atmung betrifft den Transfer zwischen Blut und Lunge. Wesentlich sind hierbei die zwei in der Atemluft enthaltenen Gase \ac{CO2} und \ac{O2}.
 %
 \begin{equation}
 RQ = \frac{\dot{V}(CO_2)}{\dot{V}(O_2)}
 \label{eq:formel1}
 \end{equation}
 %
-Das Verhältnis von \ac{VCO2} zu \ac{VO2}, der Respiratorische Quotient (\acs{RQ}), muss normalerweise getrennt für die innere und äußere Atmung betrachtet werden. Bei gesunden Menschen bzw. bei idealer Zirkulation ohne Einschränkungen auf der Strecke des Gastransfers herrscht jedoch ein Gleichgewicht ("`Steady State"')~\cite{Kroidl.2015} und das 3-Zahnräder-Modell nach Wasserman (siehe Abb. \ref{pic:pic1}) funktioniert einwandfrei. Da kardiopulmonale Defizite in der Sportmedizin ein Ausschlusskriterium für eine Spiroergometrie darstellen, wird in dieser Arbeit generell von einem Steady State ausgegangen. Der RQ wird bei der Ruhestoffwechselanalyse gemessen und deutet an, aus welchen Makronährstoffen der Körper momentan Energie bezieht. Werden ausschließlich Fette metabolisiert, liegt er bei ca. 0,7. Dies ist in absoluter körperlicher Ruhe der Fall. Liefern Kohlenhydrate die gesamte Energie, nimmt er den Wert 1 an~\cite{Kroidl.2015}. Eine steigende Kohlenhydratverbrennung wird durch zunehmende Aktivität initiiert. Darauf fußt auch der aktuelle Software-Algorithmus von cardioscan. Die damit verbundene Problematik wird im Folgenden erläutert und diskutiert.
+Das Verhältnis von \ac{VCO2} zu \ac{VO2}, der Respiratorische Quotient (\acs{RQ}), muss normalerweise getrennt für die innere und äußere Atmung betrachtet werden. Bei gesunden Menschen bzw. bei idealer Zirkulation ohne Einschränkungen auf der Strecke des Gastransfers herrscht jedoch ein Gleichgewicht ("`Steady State"')~\cite{Kroidl.2015} und das 3-Zahnräder-Modell nach Wasserman (siehe Abb. \ref{pic:pic1}) funktioniert einwandfrei. Da kardiopulmonale Defizite in der Sportmedizin ein Ausschlusskriterium für eine Spiroergometrie darstellen, wird in dieser Arbeit generell von einem Steady State ausgegangen. Der RQ wird bei der Ruhestoffwechselanalyse gemessen und deutet an, aus welchen Makronährstoffen der Körper momentan Energie bezieht. Werden ausschließlich Fette metabolisiert, liegt er bei ca. 0,7. Dies ist in absoluter körperlicher Ruhe der Fall. Liefern Kohlenhydrate die gesamte Energie, nimmt er den Wert 1 an~\cite{Kroidl.2015}. Eine steigende Kohlenhydratverbrennung wird durch zunehmende Aktivität initiiert. Darauf fußt auch der aktuelle Software-Algorithmus von cardioscan. Die damit verbundene Problematik wird in Kapitel 1.3 erläutert.
 
 \subsection{Energiebereitstellung des Körpers}
 
 \subsubsection{Primäre Energiebereitstellung}
 
-Die Bewegung des menschlichen Körpers wird durch mechanische Kontraktionen der Skelettmuskulatur möglich. Hierfür dient die hydrolytische Spaltung des körpereigenen "`Brennstoffs"' \ac{ATP} als Energiequelle:
+Die Bewegung des menschlichen Körpers wird durch mechanische Kontraktionen der Skelettmuskulatur möglich. Hierfür dient die hydrolytische Spaltung des körpereigenen "`Brennstoffs"' \ac{ATP} zu \ac{ADP}, \ac{H+} und \ac{P} als Energiequelle:
 %
 \begin{equation}
 ATP + H_2O \rightarrow ADP + P_i + H^+
 \label{eq:formel2}
 \end{equation}
 %
-Mit der durchschnittlichen ATP-Konzentration im Muskel von \SIrange{5}{7}{\milli\mole\per\kg} lassen sich nur wenige Kontraktionen durchführen bzw. ein bis zwei Sekunden starke körperliche Arbeit verüben~\cite{DeMarees.1981}. Für längere Aktivität muss also stetig ATP resynthetisiert werden. Dies geschieht vorerst durch die anaerobe Reaktion von \ac{ADP} und \ac{CrP}~\cite{Heck.2006}. 
+Mit der durchschnittlichen \acs{ATP}-Konzentration im Muskel von \SIrange{5}{7}{\milli\mole\per\kg} lassen sich nur wenige Kontraktionen durchführen bzw. ein bis zwei Sekunden starke körperliche Arbeit verüben~\cite{DeMarees.1981}. Für längere Aktivität muss stetig \acs{ATP} resynthetisiert werden. Dies geschieht vorerst durch die anaerobe Reaktion von \acs{ADP}, \ac{CrP} und \acs{H+}~\cite{Heck.2006}.
 
 \begin{equation}
 ADP + CrP + H^+ \leftrightarrow ATP + Cr
 \label{eq:formel3}
 \end{equation}
 
-Kreatinphosphat kann mit einem Muskelgehalt von \SIrange{15}{20}{\milli\mole\per\kg} für ca. fünf bis sechs Sekunden körperlicher Last Energie liefern. Dementsprechend genügt diese Energiegewinnung nur für kurze Belastungsphasen. Mit weiterer andauernder und inkrementierter Belastung nimmt jedoch die CrP-Konzentration sehr steil ab und der Organismus greift auf sekundäre Energiequellen zurück.
+\acs{CrP} kann mit einem Muskelgehalt von \SIrange{15}{20}{\milli\mole\per\kg} für ca. fünf bis sechs Sekunden körperlicher Last Energie liefern. Dementsprechend genügt diese Energiegewinnung nur für kurze Belastungsphasen. Mit weiterer andauernder und inkrementierter Belastung nimmt jedoch die \acs{CrP}-Konzentration sehr steil ab und der Organismus greift auf sekundäre Energiequellen zurück.
 
 \subsubsection{Sekundäre Energiebereitstellung}
 
-Die sekundäre Energiegewinnung kann in die aerobe sowie anaerob-laktazide ATP-Resynthese differenziert werden~\cite{Kroidl.2015}. Durch zunehmende Belastung werden mehr zusätzliche Muskelfasern rekrutiert, welche die Energie schnell benötigen und aus Glukose beziehen. Die aerobe Glykolyse setzt zuerst ein, da sie mit insgesamt ca. \SI{36}{\mole} ATP pro Glukose-Molekül sehr effektiv ist~\cite{Kroidl.2015}. Der gesamte Prozess erfolgt enzymatisch in mehreren Teilschritten und endet mit dem Anion Pyruvat~\cite{Heck.2006}. Ist genügend Sauerstoff in den Mitochondrien vorhanden, kann das Pyruvat direkt in den Citratzyklus zur ATP-Resynthese überführt werden~\cite{Rassow.2008}. Bei zunehmender Belastung und damit auch erhöhtem \acs{O2}-Verbrauch kommt mit der Zeit die oxidative Kapazität zum Erliegen und das Redox-Coenzym \acs{NADH} reichert sich in unoxidierter Form an. Für die Glykolyse wird es allerdings als oxidiertes Substrat benötigt. Damit diese fortlaufen kann, hilft sich der Organismus selbst, indem er das Pyruvat durch das Enzym \ac{LDH} zu \ac{HLa}, bzw. deren Salz \ac{La-} reduziert~\cite{Rassow.2008} und die anaerob-laktazide Glykolyse aktiviert. Durch die dabei stattfindende Reoxidation des \acs{NADH}/\acs{H+} kann die Glykolyse, deren Rate bei zunehmender Muskelarbeit gesteigert werden muss, fortwähren~\cite{Heck.2006}. Das Laktat dient zu Beginn dieser Umstellung auch als Substrat für die Rückreaktion und akkumuliert zunächst in die Skelettmuskelfasern und anschließend im Herzmuskel~\cite{Klinke.2003}. Durch zunehmende Belastung steigen die \acs{H+}- sowie \acs{La-}-Konzentrationen weiter an und der Blut-pH-Wert sinkt. Dieser oftmals als "`Übersäuerung"' bezeichnete Zustand wird auch metabolische Azidose (aus lat. \textsl{acidum}: Säure) genannt~\cite{Boening.2008}. Hierzu kann die Nettoreaktionsgleichung der anaerob-laktaziden Glykolyse betrachtet werden:
+Die sekundäre Energiegewinnung kann in die aerobe sowie anaerob-laktazide ATP-Resynthese differenziert werden~\cite{Kroidl.2015}. Durch zunehmende Belastung werden mehr zusätzliche Muskelfasern rekrutiert, welche die Energie schnell benötigen und aus Glukose beziehen. Die aerobe Glykolyse setzt zuerst ein, da sie mit insgesamt ca. \SI{36}{\mole} ATP pro Glukose-Molekül sehr effektiv ist~\cite{Kroidl.2015}. Der gesamte Prozess erfolgt enzymatisch in mehreren Teilschritten und endet mit dem Anion Pyruvat~\cite{Heck.2006}. Ist genügend Sauerstoff in den Mitochondrien vorhanden, kann das Pyruvat direkt in den Citratzyklus zur ATP-Resynthese überführt werden~\cite{Rassow.2008}. Bei zunehmender Belastung und damit auch erhöhtem \acs{O2}-Verbrauch kommt mit der Zeit die oxidative Kapazität zum Erliegen und das Redox-Coenzym \acs{NADH} reichert sich in unoxidierter Form an. Für die Glykolyse wird es allerdings als oxidiertes Substrat benötigt. Damit diese fortlaufen kann, hilft sich der Organismus selbst, indem er das Pyruvat durch das Enzym \ac{LDH} zu \ac{HLa} reduziert~\cite{Rassow.2008} und die anaerob-laktazide Glykolyse aktiviert. Durch die dabei stattfindende Reoxidation des \acs{NADH}/\acs{H+} kann die Glykolyse, deren Rate bei zunehmender Muskelarbeit gesteigert werden muss, fortwähren~\cite{Heck.2006}. Bei jener entstehen aus einem Molekül Glukose zwei Moleküle \ac{HLa} bzw. \acs{H+} und \acs{La-}:
 
 \begin{equation}
 Glukose \rightarrow 2 HLa \rightarrow 2 H^+ + 2 La^-
 \label{eq:formel4}
 \end{equation}
 
-Infolgedessen wird das \acl{HCO3-}-Puffersystem des Körpers zur Aufrechterhaltung des natürlichen Säure-Base-Haushalts, dessen Reaktion Formel~\eqref{eq:formel5} darstellt, aktiv \cite{Kroidl.2015}.
+Das Laktat dient zu Beginn dieser Umstellung auch als Substrat für die Rückreaktion und akkumuliert zunächst in die Skelettmuskelfasern und anschließend im Herzmuskel~\cite{Klinke.2003}. Die \acs{H+}-Konzentration steigt hingegen weiter an, sodass der Blut-pH-Wert sinkt. Dieser oftmals als "`Übersäuerung"' bezeichnete Zustand wird auch metabolische Azidose (aus lat. \textsl{acidum}: Säure) genannt~\cite{Boening.2008}. Infolgedessen wird das \acl{HCO3-}-Puffersystem des Körpers zur Aufrechterhaltung des natürlichen Säure-Base-Haushalts aktiv, wodurch das \acs{HCO3-} den \acs{H+} zu instabiler \ac{H2CO3} bindet, welche direkt zu \acs{CO2} und \acs{H2O} zerfällt~\cite{Kroidl.2015}:
 
 \begin{equation}
-NaHCO_3^- + H^+ La^- \rightleftharpoons CO_2 + NaLa H_2O
+HCO_3^- + H^+ \rightleftharpoons H_2CO_3 \rightleftharpoons CO_2 + H_2O
 \label{eq:formel5}
 \end{equation}
 
-Das zusätzlich während dieser Prozesse entstehende \acs{CO2} muss nun mit dem \acs{CO2} aus der Energiebereitstellung über die Lunge eliminiert werden. Durch diese "`ventilatorische Kompensation"' kommt es zu einem messbaren Anstieg an exspiriertem \acs{CO2} im Verhältnis zum inspirierten \acs{O2}~\cite{Boening.2008}. Diese nachweisliche \ac{CO2}-Elimination gewährleistet letztlich die ventilatorische Schwellenbestimmung.\\
-
+Das zusätzlich während dieser Prozesse entstehende \acs{CO2} muss nun mit dem \acs{CO2} aus der Energiebereitstellung über die Lunge eliminiert werden. Durch diese "`ventilatorische Kompensation"' kommt es zu einem messbaren Anstieg an exspiriertem \acs{CO2} im Verhältnis zum inspirierten \acs{O2}~\cite{Boening.2008}. Die nachweisliche \ac{CO2}-Elimination gewährleistet letztlich die ventilatorische Schwellenbestimmung.
+%
 \section{Spiroergometrie}
 
 \subsection{Ventilatorische Schwellen}
 
-Somit kann die Energiebereitstellung eines Menschen grob in die Phasen aerob, aerob-anaerob und anaerob gegliedert werden~\cite{Antonutto.1995}. Die realen Zustände sind aber bei jedem Menschen sehr individuell und vermischt~\cite{Moosburger.1995}. Abhängig vom Gesundheits- oder Trainingszustand eines Menschen kann auch eine teilweise anaerobe Energiebereitstellung in Ruhe oder aber eine überwiegend aerobe bei hoher Belastung vorliegen~\cite{Skinner.1980}. Um individuell Trainingsbereiche definieren zu können, müssen diese Übergänge also zuerst bestimmt werden. Sie wurden einst als aerobe und anaerobe Schwellen deklariert~\cite{Wasserman.1973}. Da in Publikationen aus der Vergangenheit unterschiedliche Titel für die gleichen Schwellen auftauchten, wurden inzwischen mit der 1. und 2. Ventilatorischen Schwelle - abgekürzt als \acs{VT1} und \acs{VT2} - einheitliche Fachtermini festgelegt, die weitestgehend Verwendung finden~\cite{Westhoff.2012}.
+Wie im Kapitel 1.2.2 aufgeführt, kann die Energiegewinnung eines Menschen grob in die Phasen aerob, aerob-anaerob und anaerob gegliedert werden~\cite{Antonutto.1995}. Die realen Zustände sind aber bei jedem Menschen sehr individuell und vermischt~\cite{Moosburger.1995}. Abhängig vom Gesundheits- oder Trainingszustand eines Menschen kann auch eine teilweise anaerobe Energiebereitstellung in Ruhe oder aber eine überwiegend aerobe bei hoher Belastung vorliegen~\cite{Skinner.1980}. Um individuell Trainingsbereiche definieren zu können, müssen diese Übergänge also zuerst bestimmt werden. Sie wurden einst als aerobe und anaerobe Schwellen deklariert~\cite{Wasserman.1973}. Da in Publikationen aus der Vergangenheit unterschiedliche Titel für die gleichen Schwellen auftauchten, wurden inzwischen mit der 1. und 2. Ventilatorischen Schwelle - abgekürzt als \acs{VT1} und \acs{VT2} - einheitliche Fachtermini festgelegt, die weitestgehend Verwendung finden~\cite{Westhoff.2012}.
 \begin{table}[H]
 	\centering
 	\caption[Pathophysiologische Veränderungen an VT1 und VT2]{Pathophysiologische Veränderungen an VT1 und VT2~\cite{Westhoff.2012}}
@@ -79,7 +79,7 @@ Somit kann die Energiebereitstellung eines Menschen grob in die Phasen aerob, ae
 		Laktatanstieg mit Laktatpufferung zu Beginn des aerob-anaeroben Übergangs & Überschreiten des Max. Laktat-Steady-State zum Ende des aerob-anaeroben Übergangs \\
 		\begin{titemize}
 			\item Steigerung der Ventilation \acs{VE}
-			\item Zunahme der \acs{CO2}-Abgabe relativ zur \acs{O2}-Aufnahme
+			\item Zunahme der \acs{VCO2} relativ zur \acs{VO2}
 		\end{titemize}
 		&\begin{titemize}
 			\item Laktatexzess
@@ -90,8 +90,8 @@ Somit kann die Energiebereitstellung eines Menschen grob in die Phasen aerob, ae
 	\end{tabularx}
 	\label{tab:tabelle1}
 \end{table}
-Tab.~\ref{tab:tabelle1} listet die physiologischen Prozesse auf, die als Indikatoren für VT1 und VT2 gelten. Die \ac{VE} beschreibt das Gesamtvolumen an Luft, die pro Zeiteinheit ein- bzw. ausgeatmet wird. Sie ist ein direkter Messwert und wird in \si{\litre\per\minute} angegeben und daher auch als \ac{AMV} betitelt. \acs{VO2} und \acs{VCO2} werden anschließend mit den Fraktionen des jeweiligen Gases und den Formeln \eqref{eq:formel6} sowie \eqref{eq:formel7} berechnet.
-
+Tab.~\ref{tab:tabelle1} listet die physiologischen Prozesse auf, die als Indikatoren für VT1 und VT2 gelten. Die \ac{VE} beschreibt das Gesamtvolumen an Luft, die pro Zeiteinheit ein- bzw. ausgeatmet wird. Sie ist ein direkter Messwert und wird in \si{\litre\per\minute} angegeben und daher auch als \ac{AMV} betitelt. Die \acs{VO2} ist das Produkt aus der \acs{VE} und der Differenz aus der Fraktion des inspirierten (\acs{FIO2}) und exspirierten Sauerstoffs (\acs{FEO2}). Da die \acs{CO2}-Konzentration in der atmosphärischen Luft vernachlässigbar klein ist, wird die \acs{VE} nur mit der \ac{FECO2} multipliziert.
+%
 \begin{flalign}
 \dot{V}O_2 &= \dot{V}E * (FIO_2 - FEO_2)
 \label{eq:formel6}\\[1em]
@@ -110,22 +110,14 @@ Das wichtigste grafische Instrument der Spiroergometrie ist die 9-Felder-Grafik 
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=135mm]{Bilder/9fieldcomplex.png}
-	\caption[Beispielhafte 9-Felder-Grafik mit Markierungen für VT1]{Beispiel einer 9-Felder-Grafik einer jungen sportlichen Frau mit Markierungen für VT1~\cite{Kroidl.2015}}
+	\includegraphics[width=\textwidth]{Bilder/9fieldcomplex.png}
+	\caption[Beispielhafte 9-Felder-Grafik nach einer Spiroergometrie]{Beispiel einer 9-Felder-Grafik nach einer Spiroergometrie mit einer jungen sportlichen Frau mit den relevanten Feldern: 4, 5, 6 und 9.\\
+	Feld 4: \acs{VE} in \si{\litre\per\minute} gegenüber \acs{VCO2} in \si{\milli\litre\per\minute}, Feld 5: \acs{HF} in \si{\per\minute} und \acs{VCO2} in \si{\milli\litre\per\minute} gegenüber \acs{VO2} in \si{\milli\litre\per\minute}, Feld 6: \acs{EQO2} und \acs{EQCO2} gegenüber der Zeit in \si{\minute}; VT1 wird mit einer vertikalen blauen Linie bzw. einer Raute und einem schwarzen Pfeil markiert. VT2 wird mit einer roten vertikalen Linie markiert.~\cite{Kroidl.2015}}
 	\label{pic:pic2}
 \end{figure}
 %
-Anhand eines Pfeils und einer vertikalen Linie mit einer kleinen Raute wurde in den Feldern 1, 4, 5, 6, 8 und 9 die VT1 markiert. Die Plots enthalten noch weitere Cursor, die für andere diagnostische Anwendungen relevant sind. Die Felder enthalten sehr viele Informationen, weswegen die gesamte Grafik für einen Anwender ohne ausreichendes Hintergrundwissen sehr kompliziert aussehen wird. In Abb.~\ref{pic:pic3} ist die gleiche Grafik mit Markierungen für die VT2 zu sehen. Der Rest der Grafik unterscheidet sich nicht zu der in Abb. \ref{pic:pic2}. Die Plots lassen sich sehr gut zum Vergleich unterschiedlicher Felder und Auswertungsmethoden verwenden. Mit der 9-Felder-Grafik lassen sich Schwellenbestimmungen gut evaluieren und auf Übereinstimmung der Werte prüfen. Allerdings müssen die Graphen zuerst manuell ausgewertet werden. Sie sind für die Zwecke und Kunden von cardioscan zu komplex, da auch zu viele Plots für die Trainingsbereichsplanung wenig relevant sind. Es wird eine Darstellung benötigt, in der lediglich die bereits algorithmisch bestimmten ventilatorischen Schwellen eingefügt werden und die keine irrelevanten Informationen beinhaltet. Der Kunde soll ein Ergebnis generiert bekommen, welches nicht mehr händisch ausgewertet werden muss und einfacher nachvollziehbar ist.
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=135mm]{Bilder/9fieldplot.png}
-	\caption[Beispielhafte 9-Felder-Grafik mit Markierungen für VT2]{Beispiel einer 9-Felder-Grafik einer jungen sportlichen Frau mit Markierungen für VT2~\cite{Kroidl.2015}}
-	\label{pic:pic3}
-\end{figure}
+Anhand eines Pfeils und einer vertikalen blauen Linie mit einer kleinen Raute wurde in den Feldern 1, 4, 5, 6, 8 und 9 die VT1 markiert. Eine vertikale rote Linie stellt VT2 dar. Die Plots enthalten noch weitere Cursor, die für andere diagnostische Anwendungen relevant sind. Die Felder enthalten sehr viele Informationen, weswegen die gesamte Grafik für einen Anwender ohne ausreichendes Hintergrundwissen sehr kompliziert und die Menge an Parametern und Größen sehr umfassend wird. Die 9-Felder-Grafik sich sehr gut zum Vergleich unterschiedlicher Felder und Auswertungsmethoden verwenden. Mit der ihr lassen sich Schwellenbestimmungen auf einen Blick evaluieren und auf Übereinstimmung der Werte prüfen. Allerdings müssen die Graphen zuerst manuell ausgewertet werden. Sie sind für die Zwecke und Kunden von cardioscan zu komplex, da auch zu viele Plots für die Trainingsbereichsplanung wenig relevant sind. Es wird eine Darstellung benötigt, in der lediglich die bereits algorithmisch bestimmten ventilatorischen Schwellen eingefügt werden und die keine irrelevanten Informationen beinhaltet. Der Kunde soll ein Ergebnis generiert bekommen, welches nicht mehr händisch ausgewertet werden muss und einfacher nachvollziehbar ist. Um die VT1 und VT2 zu bestimmen, existieren mehrere Verfahren. Die wissenschaftlich am erfolgreichsten angewandten Methoden wurden 2012 offiziell zusammengefasst und auf vier je Schwelle reduziert~\cite{Westhoff.2012}. Da die Evaluation aller aufgeführten Methoden zeitlich zu umfangreich wäre, wird sich in dieser Arbeit nur auf die jeweils zwei renommiertesten Methoden konzentriert. Tab.~\ref{tab:tabelle2} listet diese gegenübergestellt für die VT1 und VT2 auf und nennt die relevanten Messwerte sowie die entsprechenden Plots der 9-Felder-Grafik.
 %
-Zur Bestimmung von VT1 und VT2 existieren nun mehrere Möglichkeiten. Die wissenschaftlich am erfolgreichsten angewandten Methoden wurden 2012 offiziell zusammengefasst und auf vier je Schwelle reduziert~\cite{Westhoff.2012}. Da die Evaluation aller aufgeführten Methoden zeitlich zu umfangreich wäre, wird sich in dieser Arbeit nur auf die jeweils zwei renommiertesten Methoden konzentriert. Tab.~\ref{tab:tabelle2} listet diese gegenübergestellt für VT1 und VT2 auf und nennt die relevanten Messwerte sowie die entsprechenden Plots der 9-Felder-Grafik.
-
 \begin{table}[H]
 	\centering
 	\caption{Ausgewählte Methoden zur Bestimmung von VT1 und VT2}
@@ -136,87 +128,92 @@ Zur Bestimmung von VT1 und VT2 existieren nun mehrere Möglichkeiten. Die wissen
 		\midrule
 		\midrule
 		\begin{titemize}
-			\item V-Slope-Methode: erster überproportionaler Anstieg von \acs{VCO2} gegenüber \acs{VO2} (Feld 5)
-			\item Anstieg von \ac{EQO2} ohne gleichzeitigen Anstieg von \ac{EQCO2} (Feld 6)
+			\item V-Slope-Methode: erster überproportionaler Anstieg der \acs{VCO2} gegenüber der \acs{VO2} (Feld 5)
+			\item Anstieg des \ac{EQO2} ohne gleichzeitigen Anstieg des \ac{EQCO2} (Feld 6)
 		\end{titemize}
 		&\begin{titemize}
-			\item überproportionaler Anstieg von \acs{VE} gegenüber \acs{VCO2} (Feld 4)
-			\item Anstieg von \ac{EQCO2} (Feld 6)
+			\item überproportionaler Anstieg der \acs{VE} gegenüber der \acs{VCO2} (Feld 4)
+			\item Anstieg des \ac{EQCO2} (Feld 6)
 		\end{titemize}\\
 		\bottomrule
 	\end{tabularx}
 	\label{tab:tabelle2}
 \end{table}
-
+%
 \subsubsection{Bestimmung der VT1}
-
-Die erste Methode zur Bestimmung der VT1 ist die Begutachtung des sogenannten "`V-Slopes"' in Feld 5 nach Beaver et al.~\cite{Beaver.1986}. Die Nomenklatur bezieht sich auf die beiden miteinander verglichenen Volumenströme (Flows) \acs{VCO2} und \acs{VO2} sowie die sich verändernde Steigung (engl. \textsl{slope}) des Graphen. Hierbei geht es um die Identifizierung charakteristischer Knickpunkte im \acs{VCO2}/\acs{VO2}-Verhältnis als Indikator für das Exzess-\acs{CO2}. Dieser grafische Vergleich der Volumenströme ist sehr stark vereinfacht und idealisiert als schematischer Beispielplot in Abb.~\ref{pic:pic4} zu sehen.
 
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=50mm]{Bilder/vslope.png}
-	\caption[Schematische Darstellung der V-Slope-Methode]{Schematische Darstellung der V-Slope-Methode, bei der \acs{VCO2} mit \acs{VO2} grafisch miteinander verglichen werden; VT1 ist die erste überproportionale \acs{VCO2}-Zunahme~\cite{Kroidl.2015}}
+	\begin{subfigure}[c]{0.45\textwidth}
+		\centering
+		\includegraphics[width=50mm]{Bilder/vslope.png}
+		\subcaption[Schematische Darstellung der V-Slope-Methode]{Schematische Darstellung der V-Slope-Methode, bei der die \acs{VCO2} gegen die \acs{VO2} aufgetragen wird}
+		\label{subpic:pic5}
+	\end{subfigure}%
+	\hfil
+	\begin{subfigure}[c]{0.45\textwidth}
+		\centering
+		\includegraphics[width=50mm]{Bilder/eqo2.png}
+		\subcaption[Schematische Darstellung des \acs{EQO2}]{Schematische Darstellung des \acs{EQO2}; Das Verhältnis aus der \acs{VE} und der \acs{VO2} wird gegenüber der Zeit oder der Leistung \acs{WL} geplottet}
+		\label{subpic:pic6}
+	\end{subfigure}
+	\caption[Methoden zur grafischen Bestimmung der VT1]{Methoden zur grafischen Bestimmung der VT1; Die VT1 wird durch die erste vertikale Linie und den blauen Punkt markiert. Die zweite vertikale Linie deutet VT2 an~\cite{Kroidl.2015}}
 	\label{pic:pic4}
 \end{figure}
 
-Anhand der gestrichelten Linien sind VT1 (links) und VT2 (rechts) markiert. VT1 wird zusätzlich durch den blauen Punkt hervorgehoben. Bei VT1 ist erkennbar, dass \acs{VCO2} gegenüber \acs{VO2} durch das zusätzliche Exzess-\acs{CO2} aus der Laktatpufferung stärker ansteigt. Wo eine zweite deutliche Zunahme von \acs{VCO2} zur Kompensation der metabolischen Azidose erkennbar ist, kann ggf. je nach Qualität des Graphen auch VT2 gekennzeichnet werden, weshalb in der Abbildung durch die rechte gestrichelte Linie auch VT2 angedeutet ist. Dies wird allerdings lediglich für Vergleiche mit anderen Methoden getan und zählt nicht als gängige VT2-Methode.\\
-Ebenfalls anwendbar ist die gleichzeitige Analyse der Atemäquivalente \acs{EQCO2} und \acs{EQO2} in Relation zur Zeit in \si{\minute} oder alternativ der Belastung (\acs{W} bzw. \acs{WL}) in \si{\watt} in Feld 6. Physikalisch werden diese durch das Verhältnis aus \acs{VE} und dem Flow des jeweiligen Gases definiert. 
+Die erste Methode zur Bestimmung der VT1 ist die Begutachtung des sogenannten "`V-Slopes"' in Feld 5 nach Beaver et al.~\cite{Beaver.1986}. Die Nomenklatur bezieht sich auf den Vergleich zwischen der \acs{VCO2} und der \acs{VO2}, welches beide Volumengrößen sind, sowie die sich ändernde Steigung (engl. \textsl{slope}) des Graphen. Dabei geht es um die Identifizierung charakteristischer Knickpunkte als Indikator für das Exzess-\acs{CO2}. Dieser grafische Vergleich der Flows an \acs{CO2} und \acs{O2} ist sehr stark vereinfacht und idealisiert als schematisches Beispiel in Abb.~\ref{subpic:pic5} zu sehen. Ebenfalls anwendbar ist die gleichzeitige Analyse der Atemäquivalente \acs{EQCO2} und \acs{EQO2} in Relation zur Zeit in \si{\minute} oder alternativ der Belastung \acs{W} (bzw. \acs{WL}) in \si{\watt} in Feld 6. Mathematisch werden diese durch das Verhältnis aus \acs{VE} und dem Flow des jeweiligen Gases definiert. Die Atemäquivalente sind einheitslos.
 %
 \begin{flalign}
 EQO_2 = \frac{\dot{V}E}{\dot{V}O_2}  &\hspace{2cm} EQCO_2 = \frac{\dot{V}E}{\dot{V}CO_2}
 \label{eq:formel8}
 \end{flalign}
 %
-Sie besitzen keine Einheit und beschreiben, wie viel geatmet werden muss, um einen Liter \acs{O2} aufzunehmen bzw. \acs{CO2} abzugeben. Der Tiefpunkt der \acs{EQO2}-Kurve wurde 1958 von Hollmann als Punkt des optimalen Wirkungsgrades (\acs{POW}) deklariert, welcher sich mit VT1 deckt~\cite{Kroidl.2015}. Dies ist auch in Abb.~\ref{pic:pic5} zu erkennen. Die Grafik zeigt ebenfalls vereinfacht ein Idealschema und die grafische Darstellung der \acs{EQO2}-Kurve. Auch hier sind anhand der gestrichelten Linien beide Schwellen (VT1 links, VT2 rechts) markiert. Danach beginnt die Laktatbildung und die Ventilation nimmt im Zuge der \acs{CO2}-Elimination zu, wodurch vorerst nur die \acs{EQO2}-Kurve beginnt, anzusteigen.
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=50mm]{Bilder/eqo2.png}
-	\caption[Schematische Darstellung des \acs{EQO2}]{Schematische Darstellung des \acs{EQO2} relativ zu der Zeit oder der Leistung \acs{WL}; VT1 ist der Tiefpunkt der Kurve~\cite{Kroidl.2015}}
-	\label{pic:pic5}
-\end{figure}
+Dieses Schema ist vereinfacht in Abb.~\ref{subpic:pic6} zu sehen. Anhand der linken gestrichelten Linien und den blauen Punkten in Abb. \ref{pic:pic4} ist VT1 markiert. Bei VT1 ist erkennbar, dass \acs{VCO2} gegenüber \acs{VO2} durch das zusätzliche Exzess-\acs{CO2} aus der Laktatpufferung stärker ansteigt. Wo eine zweite deutliche Zunahme von \acs{VCO2} zur Kompensation der metabolischen Azidose erkennbar ist, kann ggf. je nach Qualität des Graphen auch VT2 gekennzeichnet werden, weshalb in der Abbildung durch die rechte gestrichelte Linie auch VT2 angedeutet ist. Dies wird allerdings lediglich für Vergleiche mit anderen Methoden getan und zählt nicht als gängige VT2-Methode. Die Atemäquivalente \acs{EQCO2} und \acs{EQO2} beschreiben, wie viel geatmet werden muss, um einen Liter \acs{O2} aufzunehmen bzw. \acs{CO2} abzugeben. Der Tiefpunkt der \acs{EQO2}-Kurve wurde 1958 von Hollmann als Punkt des optimalen Wirkungsgrades (\acs{POW}) deklariert, welcher sich mit VT1 deckt~\cite{Kroidl.2015}. Auch hier sind anhand der gestrichelten Linien beide Schwellen (VT1 links, VT2 rechts) markiert. Danach beginnt die Laktatbildung und die Ventilation nimmt im Zuge der \acs{CO2}-Elimination zu, wodurch vorerst nur die \acs{EQO2}-Kurve beginnt, anzusteigen.
 
 \subsubsection{Bestimmung der VT2}
 
-Wie in Abb.~\ref{pic:pic5} durch die rechte gestrichelte Linie zu sehen, ist die VT2 ebenfalls in Feld 6 durch Betrachtung der Atemäquivalente bestimmbar. Dazu wird jedoch die \acs{EQCO2}-Kurve analysiert, wie schematisch in Abb.~\ref{pic:pic6} verdeutlicht. Diese nimmt für üblich eine charakteristische "`Badewannenform"' an~\cite{Kroidl.2015}.
-
+Wie in Abb.~\ref{pic:pic5} durch die rechte gestrichelte Linie zu sehen, ist die VT2 ebenfalls in Feld 6 durch Betrachtung der Atemäquivalente bestimmbar. Dazu wird jedoch die \acs{EQCO2}-Kurve analysiert, wie schematisch in Abb.~\ref{subpic:pic7} verdeutlicht. Diese nimmt für üblich eine charakteristische "`Badewannenform"' an~\cite{Kroidl.2015}.
+%
 \begin{figure}[H]
 	\centering
-	\includegraphics[width=50mm]{Bilder/eqco2.png}
-	\caption[Schematische Darstellung des \acs{EQCO2}]{Schematische Darstellung des \acs{EQCO2} relativ zu der Zeit oder der Leistung \acs{WL}; VT2 ist der Anstieg von \acs{EQCO2}~\cite{Kroidl.2015}}
-	\label{pic:pic6}
+	\begin{subfigure}[c]{0.45\textwidth}
+		\centering
+		\includegraphics[width=50mm]{Bilder/eqco2.png}
+		\subcaption[Schematische Darstellung des \acs{EQCO2}]{Schematische Darstellung des \acs{EQCO2}; Das Verhältnis aus der \acs{VE} und der \acs{VO2} wird gegenüber der Zeit oder Leistung \acs{WL} geplottet}
+		\label{subpic:pic7}
+	\end{subfigure}%
+	\hfil
+	\begin{subfigure}[c]{0.45\textwidth}
+		\centering
+		\includegraphics[width=50mm]{Bilder/field4.png}
+		\subcaption[Schematische Darstellung der \acs{VE} relativ zur \acs{VCO2}]{Schematische Darstellung des grafischen Vergleichs der \acs{VE} relativ zur \acs{VCO2}; Analogie zum V-Slope}
+		\label{subpic:pic8}
+	\end{subfigure}
+	\caption[Methoden zur grafischen Bestimmung der VT2]{Methoden zur grafischen Bestimmung der VT2; Die VT2 wird durch die zweite vertikale Linie und den orangen Punkt markiert. Die erste vertikale Linie deutet VT1 an~\cite{Kroidl.2015}}
+	\label{pic:pic5}
 \end{figure}
-
-VT2 wird durch die rechte Linie und den orangefarbenen Punkt markiert. Sie wird in dem Bereich gesetzt, an dem \acs{EQCO2} deutlich sichtbar ansteigt. Dort ist ebenfalls die Kompensation der metabolischen Azidose aufgrund des Ventilationsanstiegs, der sich auch in \acs{VCO2} widerspiegelt, erkennbar. Die Gegenüberstellung von \acs{VE} und \acs{VCO2} in Feld 4 wird jedoch als Goldstandard für die VT2-Bestimmung behandelt~\cite{ScharhagRosenberger.2013}. Dabei wird auf Erkenntnisse von Meyer et al. verwiesen, die mit dieser Methode bei einer Vielzahl an Probanden die VT2 (damals "`anaerobe Schwelle"') bestimmen konnten~\cite{Meyer.2005}.
-
-\begin{figure}[H]
-	\centering
-	\includegraphics[width=50mm]{Bilder/field4.png}
-	\caption[Schematische Darstellung von \acs{VE} relativ zu \acs{VCO2}]{Schematische Darstellung von \acs{VE} relativ zu \acs{VCO2}; VT2 ist der erste überproportionale Anstieg von \acs{VE}~\cite{Kroidl.2015}}
-	\label{pic:pic7}
-\end{figure}
-
-In Abb.~\ref{pic:pic7} ist diese Methode vereinfacht visualisiert. Diese Grafik weist Analogien zum V-Slope auf, da auch zwei Volumenströme miteinander verglichen und auch hier die Schwellen mithilfe von Knickpunkten bestimmt werden. An der rechten gestrichelten Linie und dem orangen Punkt ist die zur Azidose-Kompensation einsetzende Hyperventilation bei ausgelastetem Bicarbonat-Puffer markiert~\cite{ScharhagRosenberger.2010} . Dies entspricht auch hier der Position von VT2.\\
-Die V-Slope-Methode wird häufig als allgemeiner Goldstandard betitelt~\cite{ScharhagRosenberger.2013}. Dennoch wurde bereits von Friederike Scharhag-Rosenberger~\cite{ScharhagRosenberger.2010} und Wilfried Kindermann~\cite{Kindermann.2004} vom Institut für Sport- und Präventivmedizin Saarbrücken festgestellt wurde, dass ansteigende Intensitäten bei Stufentests für Artefakte sorgen können und deshalb stets differenziert ausgewertet werden müssen. Generell sollten unterschiedliche Methoden angewandt und zur Auswertung kombiniert werden, um Vergleiche innerhalb einer individuellen Diagnostik anstellen zu können~\cite{ScharhagRosenberger.2010}.
+%
+In Abb. \ref{pic:pic5} wird VT2 durch die rechte Linie und den orangefarbenen Punkt markiert. Bei Analyse des \acs{EQCO2} wird sie an dem Punkt gesetzt, an dem \acs{EQCO2} deutlich sichtbar ansteigt. Dies ist in Abb. \ref{subpic:pic7} erkennbar. Dies stellt die Kompensation der metabolischen Azidose aufgrund des Ventilationsanstiegs, der sich auch in \acs{VCO2} widerspiegelt, dar. Als Goldstandard für die VT2-Bestimmung wird die Gegenüberstellung von \acs{VE} und \acs{VCO2} in Feld 4 behandelt~\cite{ScharhagRosenberger.2013}. Dabei wird auf Erkenntnisse von Meyer et al. verwiesen, die mit dieser Methode bei einer Vielzahl an Probanden die VT2 (damals "`anaerobe Schwelle"') bestimmen konnten~\cite{Meyer.2005}. In Abb.~\ref{subpic:pic8} ist diese Methode vereinfacht visualisiert. Diese Grafik weist Analogien zum V-Slope auf, da auch zwei Flows miteinander verglichen und auch hier die Schwellen mithilfe von Knickpunkten bestimmt werden. An der rechten gestrichelten Linie und dem orangen Punkt auch dort die VT2 zu sehen, welche der zur Azidose-Kompensation einsetzenden Hyperventilation bei ausgelastetem Bicarbonat-Puffer folgt~\cite{ScharhagRosenberger.2010}.\\
+Der V-Slope und der Vergleich der \acs{VE} zur \acs{VCO2} werden häufig als allgemeine Goldstandards bezeichnet~\cite{ScharhagRosenberger.2013}. Dennoch wurde bereits von Friederike Scharhag-Rosenberger~\cite{ScharhagRosenberger.2010} und Wilfried Kindermann~\cite{Kindermann.2004} vom Institut für Sport- und Präventivmedizin Saarbrücken festgestellt, dass ansteigende Intensitäten bei Stufentests für Artefakte sorgen können und deshalb stets differenziert ausgewertet werden müssen. Generell sollten unterschiedliche Methoden angewandt und zur Auswertung kombiniert werden, um Vergleiche innerhalb einer individuellen Diagnostik anstellen zu können~\cite{ScharhagRosenberger.2010}.
 %\clearpage
 \section{Problemstellung \& Ziele der Arbeit}
 
-Die Bestimmung der ventilatorischen Schwellen in der Leistungsdiagnostik ist ein modernes und häufig empfohlenes Verfahren zur Trainingsplanung und daher für cardioscan ein sinnvolles Instrument. Momentan nutzt die Firma einen Algorithmus, der vom RQ abhängig ist. VT2 wird dort gesetzt, wo dieser den Wert eins erreicht. Begründet wird diese Verfahrensweise dadurch, dass Fettsäuren in körperlicher Ruhe den oxidativen Hauptenergielieferanten verkörpern, der RQ dann normalerweise bei ca. 0,7 liegt und mit zunehmender Belastung langsam ansteigt. Diefenthaeler et al.~\cite{Diefenthaeler.2017} und Zagatto et al.~\cite{Zagatto.2012} konnten dies in ihren Studien untermauern. Leti et al. hingegen machten die Beobachtung, dass die Belastungsintensität bei RQ = 1 deutlich von der objektiv mit VT2 assoziierten Intensität abwich~\cite{Leti.2012}. Dem sind besonders die Einflussfaktoren Trainingszustand sowie Belastungsart und -protokoll zugrundeliegend. Die Problematik wird zusätzlich durch den Fakt verstärkt, dass der Respiratorische Quotient (\acs{RQ}) auf unterschiedliche Weise, z.B. durch kohlenhydrathaltige Ernährung, akut beeinflussbar ist~\cite{ScharhagRosenberger.2010}. cardioscan arbeitet darüber hinaus mit Stufenprotokollen und nutzt hauptsächlich Fahrradergometer. Daraus können Abweichungen resultieren, wenn beispielsweise Laufathleten, die nicht häufig Fahrrad fahren, relativ frühzeitig muskulär ausbelastet sind, obwohl der RQ noch unterhalb von 1 liegt. Eine kardiorespiratorische Ausbelastung läge somit noch nicht vor und die VT2 wäre faktisch noch nicht erreicht~\cite{Tzvetkov.2008}. Zur Bestimmung der VT2 ist das Erreichen des Maximums jedoch unabdingbar~\cite{ScharhagRosenberger.2013}. Gemäß der Literaturempfehlungen wurden daher mehrere alternative Verfahren ausgewählt.\\
+Die Bestimmung der ventilatorischen Schwellen in der Leistungsdiagnostik ist ein modernes und häufig empfohlenes Verfahren zur Trainingsplanung und daher für cardioscan ein sinnvolles Instrument. Momentan nutzt die Firma einen Algorithmus, der vom RQ abhängig ist. VT2 wird dort gesetzt, wo dieser den Wert eins erreicht. Begründet wird diese Verfahrensweise dadurch, dass Fettsäuren in körperlicher Ruhe den oxidativen Hauptenergielieferanten verkörpern, der RQ dann normalerweise bei ca. 0,7 liegt und mit zunehmender Belastung langsam ansteigt. Diefenthaeler et al.~\cite{Diefenthaeler.2017} und Zagatto et al.~\cite{Zagatto.2012} konnten dies in ihren Studien untermauern. Leti et al. hingegen machten die Beobachtung, dass die Belastungsintensität bei RQ = 1 deutlich von der objektiv mit VT2 assoziierten Intensität abwich~\cite{Leti.2012}. Dem sind besonders die Einflussfaktoren Trainingszustand sowie Belastungsart und -protokoll zugrundeliegend. Die Problematik wird zusätzlich durch den Fakt verstärkt, dass der Respiratorische Quotient (\acs{RQ}) auf unterschiedliche Weise, z.B. durch kohlenhydrathaltige Ernährung, akut beeinflussbar ist~\cite{ScharhagRosenberger.2010}. cardioscan arbeitet darüber hinaus mit Stufenprotokollen und nutzt hauptsächlich Fahrradergometer. Daraus können Abweichungen bei den Trainingszonen resultieren, wenn beispielsweise Laufathleten, die nicht häufig Fahrrad fahren, relativ frühzeitig muskulär ausbelastet sind, obwohl der RQ noch unterhalb von 1 liegt. Eine kardiorespiratorische Ausbelastung läge somit noch nicht vor und die VT2 wäre faktisch noch nicht erreicht~\cite{Tzvetkov.2008}. Zur Bestimmung der VT2 ist das Erreichen des Maximums jedoch unabdingbar~\cite{ScharhagRosenberger.2013}. Gemäß der Literaturempfehlungen wurden daher mehrere alternative Verfahren ausgewählt.\\
 Zur Bestimmung der VT1:
 %
 \begin{itemize}
-	\item V-Slope-Methode durch Analyse von \acs{VCO2} zu \acs{VO2}
-	\item Äquivalent-Methode und alleiniger Anstieg von \acs{EQO2}
+	\item V-Slope-Methode durch Analyse der \acs{VCO2} zur \acs{VO2}
+	\item Äquivalent-Methode und alleiniger Anstieg des \acs{EQO2}
 \end{itemize}
 %
 Zur Bestimmung der VT2:
 %
 \begin{itemize}
-	\item Identifizierung des Anstiegs von \acs{VE} gegenüber \acs{VCO2}
-	\item Äquivalent-Methode und Anstieg von \acs{EQCO2}
+	\item Identifizierung des Anstiegs der \acs{VE} gegenüber der \acs{VCO2}
+	\item Äquivalent-Methode und Anstieg des \acs{EQCO2}
 \end{itemize}
 %
-Als Referenz für VT2 wurde bei den Testmessungen die momentane Methode RQ = 1 angewandt.\\
+Als Referenz für die VT2 wurde bei den Testmessungen die momentane Methode RQ = 1 angewandt.\\
 Im Rahmen der Arbeit werden mithilfe der Messungen folgende Fragen behandelt:
 %
 \begin{enumerate}
@@ -225,5 +222,5 @@ Im Rahmen der Arbeit werden mithilfe der Messungen folgende Fragen behandelt:
 	\item Ist eine genauere Bestimmung der VT2 mit den neuen Methoden möglich?
 \end{enumerate}
 %
-Ziel dieser Arbeit war die Durchführung von Testmessungen sowie Evaluierung der genannten Methoden mit dem metabolicscan. Hierfür bestimmten mehrere Instanzen unabhängig beide Schwellen. Deren Auswertungen wurden miteinander verglichen und die Korrelation der Ergebnisse analysiert.
+Ziel dieser Arbeit war die Durchführung von Testmessungen sowie Evaluierung der genannten Methoden mit dem metabolicscan. Hierfür bestimmten mehrere zwei Personen und ein Algorithmus unabhängig voneinander beide Schwellen. Deren Auswertungen wurden miteinander verglichen und die Korrelation der Ergebnisse analysiert.
 \clearpage

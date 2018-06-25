@@ -9,13 +9,13 @@
 \contentsline {subsection}{\numberline {1.1.1}Innere \& \IeC {\"a}u\IeC {\ss }ere Atmung}{2}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Energiebereitstellung des K\IeC {\"o}rpers}{3}{subsection.1.1.2}
 \contentsline {subsubsection}{\nonumberline Prim\IeC {\"a}re Energiebereitstellung}{3}{section*.14}
-\contentsline {subsubsection}{\nonumberline Sekund\IeC {\"a}re Energiebereitstellung}{4}{section*.18}
+\contentsline {subsubsection}{\nonumberline Sekund\IeC {\"a}re Energiebereitstellung}{4}{section*.20}
 \contentsline {section}{\numberline {1.2}Spiroergometrie}{5}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Ventilatorische Schwellen}{5}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Methoden zur Schwellenbestimmung}{6}{subsection.1.2.2}
-\contentsline {subsubsection}{\nonumberline 9-Felder-Grafik nach Prof. Karlman Wasserman}{6}{section*.25}
-\contentsline {subsubsection}{\nonumberline Bestimmung der VT1}{9}{section*.31}
-\contentsline {subsubsection}{\nonumberline Bestimmung der VT2}{10}{section*.34}
+\contentsline {subsubsection}{\nonumberline 9-Felder-Grafik nach Prof. Karlman Wasserman}{6}{section*.28}
+\contentsline {subsubsection}{\nonumberline Bestimmung der VT1}{8}{section*.33}
+\contentsline {subsubsection}{\nonumberline Bestimmung der VT2}{9}{section*.35}
 \contentsline {section}{\numberline {1.3}Problemstellung \& Ziele der Arbeit}{11}{section.1.3}
 \contentsline {chapter}{\numberline {2}Methode}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Material \& Testaufbau}{13}{section.2.1}
