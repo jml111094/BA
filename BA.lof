@@ -11,21 +11,21 @@
 \contentsline {figure}{\numberline {5}{\ignorespaces metabolicscan: Analyseeinheit, Atemmodul, Filter und Mundst\IeC {\"u}ck}}{14}{figure.caption.40}
 \contentsline {figure}{\numberline {6}{\ignorespaces Proband w\IeC {\"a}hrend der Spiroergometrie\relax }}{19}{figure.caption.46}
 \contentsline {figure}{\numberline {7}{\ignorespaces Beispielhafte Software-Oberfl\IeC {\"a}che w\IeC {\"a}hrend einer Spiroergometrie}}{20}{figure.caption.47}
-\contentsline {figure}{\numberline {8}{\ignorespaces 6-Felder-Grafik von Probandin 6w\relax }}{27}{figure.caption.52}
-\contentsline {figure}{\numberline {9}{\ignorespaces 6-Felder-Grafik von Proband 21m\relax }}{27}{figure.caption.53}
+\contentsline {figure}{\numberline {8}{\ignorespaces 6-Felder-Grafik von Probandin 6w}}{27}{figure.caption.52}
+\contentsline {figure}{\numberline {9}{\ignorespaces 6-Felder-Grafik von Proband 21m}}{28}{figure.caption.53}
 \contentsline {figure}{\numberline {10}{\ignorespaces 6-Felder-Grafik von Probandin 6w mit algorithmischen Schwellenmarkierungen}}{29}{figure.caption.58}
-\contentsline {figure}{\numberline {11}{\ignorespaces 6-Felder-Grafik von Proband 8m mit algorithmischen Schwellenmarkierungen}}{29}{figure.caption.59}
-\contentsline {figure}{\numberline {12}{\ignorespaces 6-Felder-Grafik von Proband 9m mit algorithmischen Schwellenmarkierungen}}{30}{figure.caption.60}
-\contentsline {figure}{\numberline {13}{\ignorespaces 6-Felder-Grafik von Proband 12m mit algorithmischen Schwellenmarkierungen}}{30}{figure.caption.61}
-\contentsline {figure}{\numberline {14}{\ignorespaces 6-Felder-Grafik von Proband 21 mit algorithmischen Schwellenmarkierungen}}{31}{figure.caption.62}
-\contentsline {figure}{\numberline {15}{\ignorespaces Netzdiagramme zur Darstellung der Differenzen f\IeC {\"u}r VT1}}{34}{figure.caption.64}
+\contentsline {figure}{\numberline {11}{\ignorespaces 6-Felder-Grafik von Proband 8m mit algorithmischen Schwellenmarkierungen}}{30}{figure.caption.59}
+\contentsline {figure}{\numberline {12}{\ignorespaces 6-Felder-Grafik von Proband 9m mit algorithmischen Schwellenmarkierungen}}{31}{figure.caption.60}
+\contentsline {figure}{\numberline {13}{\ignorespaces 6-Felder-Grafik von Proband 12m mit algorithmischen Schwellenmarkierungen}}{31}{figure.caption.61}
+\contentsline {figure}{\numberline {14}{\ignorespaces 6-Felder-Grafik von Proband 21 mit algorithmischen Schwellenmarkierungen}}{32}{figure.caption.62}
+\contentsline {figure}{\numberline {15}{\ignorespaces Grafische Darstellung der Differenzen f\IeC {\"u}r die VT1}}{34}{figure.caption.64}
 \contentsline {subfigure}{\numberline {a}{\ignorespaces Vergleich der VT1-Bestimmungen durch V-Slope}}{34}{figure.caption.64}
-\contentsline {subfigure}{\numberline {b}{\ignorespaces Vergleich der VT1-Bestimmungen durch \acs {EQO2}}}{34}{figure.caption.64}
-\contentsline {figure}{\numberline {16}{\ignorespaces Punktdiagramm mit Differenzen f\IeC {\"u}r V-Slope}}{34}{figure.caption.65}
-\contentsline {figure}{\numberline {17}{\ignorespaces Punktdiagramm mit Differenzen f\IeC {\"u}r \acs {EQO2}}}{35}{figure.caption.66}
-\contentsline {figure}{\numberline {18}{\ignorespaces Netzdiagramme zur Darstellung der Differenzen f\IeC {\"u}r VT2}}{37}{figure.caption.69}
-\contentsline {subfigure}{\numberline {a}{\ignorespaces Vergleich der VT2-Bestimmungen durch \acs {EQCO2}}}{37}{figure.caption.69}
-\contentsline {subfigure}{\numberline {b}{\ignorespaces Vergleich der VT2-Bestimmungen durch \acs {VE}/\acs {VCO2}}}{37}{figure.caption.69}
-\contentsline {figure}{\numberline {19}{\ignorespaces Punktdiagramm mit Differenzen f\IeC {\"u}r \acs {EQCO2}}}{37}{figure.caption.70}
-\contentsline {figure}{\numberline {20}{\ignorespaces Punktdiagramm mit Differenzen f\IeC {\"u}r \acs {VE}/\acs {VCO2}}}{38}{figure.caption.71}
-\contentsline {figure}{\numberline {21}{\ignorespaces Streudiagramm mit \acs {EQCO2}-Ergebnissen von Ratern und Software}}{44}{figure.caption.73}
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Vergleich der VT1-Bestimmungen durch das \acs {EQO2}}}{34}{figure.caption.64}
+\contentsline {figure}{\numberline {16}{\ignorespaces Streuung der V-Slope-Ergebnisse zwischen Ratern und Software}}{35}{figure.caption.65}
+\contentsline {figure}{\numberline {17}{\ignorespaces Streuung der \acs {EQO2}-Ergebnisse zwischen Ratern und Software}}{35}{figure.caption.66}
+\contentsline {figure}{\numberline {18}{\ignorespaces Grafische Darstellung der Differenzen f\IeC {\"u}r die VT2}}{38}{figure.caption.69}
+\contentsline {subfigure}{\numberline {a}{\ignorespaces Vergleich der VT2-Bestimmungen durch das \acs {EQCO2}}}{38}{figure.caption.69}
+\contentsline {subfigure}{\numberline {b}{\ignorespaces Vergleich der VT2-Bestimmungen durch \acs {VE}/\acs {VCO2}}}{38}{figure.caption.69}
+\contentsline {figure}{\numberline {19}{\ignorespaces Streuung der \acs {EQCO2}-Ergebnisse zwischen Ratern und Software}}{38}{figure.caption.70}
+\contentsline {figure}{\numberline {20}{\ignorespaces Streuung der \acs {VE}/\acs {VCO2}-Ergebnisse zwischen Ratern und Software}}{39}{figure.caption.71}
+\contentsline {figure}{\numberline {21}{\ignorespaces Streudiagramm mit \acs {EQCO2}-Ergebnissen von Ratern und Software}}{46}{figure.caption.73}
