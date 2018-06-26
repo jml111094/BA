@@ -1394,44 +1394,42 @@
       \verb http://www.ag-spiroergometrie.de/uploads/media/Plausibilit%C3%A4tCPXKorrekturen.pdf
       \endverb
     \endentry
-    \entry{Biochemie1}{misc}{}
-      \name{author}{2}{}{%
-        {{hash=f7799fb4ca6d0a7389de584e9c890332}{%
-           family={Brandenburger},
-           familyi={B\bibinitperiod},
+    \entry{Larsen.2017}{book}{}
+      \name{author}{3}{}{%
+        {{hash=f13893be1fa889402e5da4614c85c266}{%
+           family={Larsen},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=92b41f8dd9e7f611837225ee28109007}{%
+           family={Ziegenfuß},
+           familyi={Z\bibinitperiod},
            given={T.},
            giveni={T\bibinitperiod}}}%
-        {{hash=f740d341f0eb656be26f6638d0e8b5f9}{%
-           family={Königshoff},
-           familyi={K\bibinitperiod},
-           given={M.},
-           giveni={M\bibinitperiod}}}%
+        {{hash=0b268b6dde2cf0bb0e85d0e87caac27e}{%
+           family={Mathes},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Stuttgart}%
+        {Heidelberg}%
       }
       \list{publisher}{1}{%
-        {Georg Thieme Verlag}%
+        {Springer Verlag}%
       }
-      \strng{namehash}{4ecd1472930dff0eeed4ca66c95defe5}
-      \strng{fullhash}{4ecd1472930dff0eeed4ca66c95defe5}
-      \strng{bibnamehash}{4ecd1472930dff0eeed4ca66c95defe5}
-      \strng{authorbibnamehash}{4ecd1472930dff0eeed4ca66c95defe5}
-      \strng{authornamehash}{4ecd1472930dff0eeed4ca66c95defe5}
-      \strng{authorfullhash}{4ecd1472930dff0eeed4ca66c95defe5}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \strng{namehash}{ba1702f420635d6fa06f0fefba415486}
+      \strng{fullhash}{ba1702f420635d6fa06f0fefba415486}
+      \strng{bibnamehash}{ba1702f420635d6fa06f0fefba415486}
+      \strng{authorbibnamehash}{ba1702f420635d6fa06f0fefba415486}
+      \strng{authornamehash}{ba1702f420635d6fa06f0fefba415486}
+      \strng{authorfullhash}{ba1702f420635d6fa06f0fefba415486}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{zuletzt abgerufen am 15.05.2018}
-      \field{title}{Endspurt Vorklinik: Biochemie 1}
-      \field{year}{2013}
-      \verb{urlraw}
-      \verb https://viamedici.thieme.de/lernmodule/biochemie/glykolyse+%C3%BCbersicht+reaktionen+und+energiebilanz
-      \endverb
-      \verb{url}
-      \verb https://viamedici.thieme.de/lernmodule/biochemie/glykolyse+%C3%BCbersicht+reaktionen+und+energiebilanz
-      \endverb
+      \field{title}{Beatmung: Indikationen - Techniken - Krankheitsbilder}
+      \field{year}{2017}
     \endentry
   \enddatalist
 \endrefsection
