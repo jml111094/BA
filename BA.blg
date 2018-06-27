@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
-[0] Config.pm:305> INFO - Logfile is 'BA.blg'
-[31] biber-MSWIN64:313> INFO - === 
-[61] Biber.pm:371> INFO - Reading 'BA.bcf'
-[146] Biber.pm:854> INFO - Using all citekeys in bib section 0
-[161] Biber.pm:3976> INFO - Processing section 0
-[178] Biber.pm:4136> INFO - Looking for bibtex format file 'Referenzen.bib' for section 0
-[182] bibtex.pm:1500> INFO - LaTeX decoding ...
-[230] bibtex.pm:1316> INFO - Found BibTeX data source 'Referenzen.bib'
-[489] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[490] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[490] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
-[490] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[523] bbl.pm:617> INFO - Writing 'BA.bbl' with encoding 'UTF-8'
-[539] bbl.pm:720> INFO - Output to BA.bbl
+[1] Config.pm:305> INFO - Logfile is 'BA.blg'
+[29] biber-MSWIN64:313> INFO - === 
+[60] Biber.pm:371> INFO - Reading 'BA.bcf'
+[154] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[169] Biber.pm:3976> INFO - Processing section 0
+[187] Biber.pm:4136> INFO - Looking for bibtex format file 'Referenzen.bib' for section 0
+[192] bibtex.pm:1500> INFO - LaTeX decoding ...
+[245] bibtex.pm:1316> INFO - Found BibTeX data source 'Referenzen.bib'
+[526] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[526] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[527] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[527] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
+[560] bbl.pm:617> INFO - Writing 'BA.bbl' with encoding 'UTF-8'
+[580] bbl.pm:720> INFO - Output to BA.bbl
