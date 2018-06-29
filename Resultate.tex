@@ -1,8 +1,8 @@
 \chapter{Resultate}
-
+%
 In diesem Kapitel werden ausgewählte Messergebnisse vorgeführt. Zu Beginn werden einige Plots präsentiert, die für die Auswertung verwendet wurden. Anschließend werden Unterschiede zwischen den Ergebnissen aufgezeigt, die im nächsten Kapitel für die Evaluierung der Methoden diskutiert werden. Alle Messungen wurden ohne Störungen oder Fehler von außerhalb erfolgreich durchgeführt.\\
 Die nachfolgende Tab. \ref{tab:tabelle4} zeigt zu jeder Testperson die vorab ermittelte Ruhe-\acs{HF}, die während der Leistungsdiagnostik \ac{HFmax} sowie die Anfangsbelastung \acs{Wstart}, die Intensität der letzten Belastungsstufe \acs{Wmax} und die \ac{VO2max}. 16 von 28 Personen mussten die Belastungsphase laut eigener Aussage wegen Beinschwäche beenden. Zehn Probanden erreichten nach Selbsteinschätzung ihr konditionales Maximum. Zwei Personen klagten in der letzten Stufe über Atemnot und mussten den Test deshalb abbrechen.
-
+%
 \begin{table}[H]
 	\centering
 		\caption{Originäre Messergebnisse der Tests}
@@ -44,7 +44,7 @@ Die nachfolgende Tab. \ref{tab:tabelle4} zeigt zu jeder Testperson die vorab erm
 		\end{tabulary}
 		\label{tab:tabelle4}
 \end{table}
-
+%
 \section{Grafiken zur Bestimmung der Schwellen}
 %
 \subsection{Manuelle Bestimmung}
@@ -66,9 +66,9 @@ Beginnend mit Abb. \ref{pic:pic15} für Probandin 6w werden beispielhaft Grafike
 \end{figure}
 %
 Abb. \ref{pic:pic16} zeigt eine weitere 6-Felder-Grafik von Proband 21m. Diese beinhaltet unregelmäßige Graphen und es ist zu sehen, dass der RQ (hellblau) während des Tests den Wert eins nicht überschritten hat. Außerdem tritt in der \acs{EQCO2}-Kurve kein signifikanter Anstieg zum Ende der Leistungsdiagnostik auf. Die Graphen im 5. und 6. Feld besitzen in Abb. \ref{pic:pic15} stetige Steigungen. In Abb. \ref{pic:pic16} schwanken die Kurven zwischen einzelnen Messpunkten. Die übrigen Plots weisen an den betroffenen Stufen Analogien zu diesen Schwankungen auf. In Kapitel 4 werden diese Eigenschaften genauer erörtert.
-
+%
 \subsection{Algorithmische Bestimmung}
-
+%
 In diesem Abschnitt werden weitere Grafiken präsentiert, die zusätzlich eine algorithmische Schwellenbestimmung des MATLAB-Programms enthalten. Hierdurch wurde für jeden Probanden eine zweite Bilddatei erstellt, welche die VT1 und VT2 bereits in Form von vertikalen Linien beinhaltet und durch eine Angabe für die \acs{HF} an der jeweiligen Schwelle ergänzt ist. In Feld 5 dieser Plots wurde im Vergleich mit der \acs{VE} die Leistung durch die \acs{HF} ersetzt und es wurden bereits Trainingsbereiche eingefügt, die ebenfalls durch farbige vertikale Linien gekennzeichnet und in einer Legende mit Wertebereichen beschrieben sind. Es werden \ac{REKOM}, \ac{GA1}, \ac{GA2}, \ac{EW} und Leistung als Trainingszonen definiert. Dies diente dem Testlauf eines neuen Modells zur Trainingssteuerung. Die Entwicklung und Implementierung dieses Modells basierte auf den Erkenntnissen zur Schwellenbestimmung und wurde nachträglich eingefügt. Im Kapitel 5 wird näher darauf eingegangen.
 %
 \begin{figure}[H]
@@ -110,14 +110,14 @@ In Abb. \ref{pic:pic20} ist eine Auswertung für Proband 12m zu sehen, welcher w
 \begin{figure}[H]
 	\centering
 	\noindent\includegraphics[angle=0,width=\linewidth,keepaspectratio]{Bilder/auto_21}
-	\caption[6-Felder-Grafik von Proband 21 mit algorithmischen Schwellenmarkierungen]{6-Felder-Grafik von Proband 21 mit algorithmischen Schwellenmarkierungen: \textsl{V-Slope} = \SI{151}{\per\minute}, \textsl{\acs{EQO2}} = \SI{118}{\per\minute}, \textsl{\acs{EQCO2}} = \SI{163}{\per\minute}, \textsl{\acs{VE}/\acs{VCO2}} = \SI{183}{\per\minute}}
+	\caption[6-Felder-Grafik von Proband 21m mit algorithmischen Schwellenmarkierungen]{6-Felder-Grafik von Proband 21m mit algorithmischen Schwellenmarkierungen: \textsl{V-Slope} = \SI{151}{\per\minute}, \textsl{\acs{EQO2}} = \SI{118}{\per\minute}, \textsl{\acs{EQCO2}} = \SI{163}{\per\minute}, \textsl{\acs{VE}/\acs{VCO2}} = \SI{183}{\per\minute}}
 	\label{pic:pic21}
 \end{figure}
 %
-Die fünfte Beispielgrafik in Abb. \ref{pic:pic21} zeigt die Ergebnisse des Probanden 21m analog zu Abb. \ref{pic:pic16} inklusive der Schwellenbestimmung der Software. Dieser Proband bewältigte zehn Belastungsstufen. Im 6. Feld ist eine schwankende Steigung der \acs{VO2} in Relation zur Belastung zwischen Stufe 2 und 5 erkennbar. Diese Schwankungen tauchen auch im V-Slope und bei \acs{VE}/\acs{VCO2} sowie beim RQ auf. Auch hier unterscheiden sich die Bestimmungen für die VT1 durch den V-Slope und das \acs{EQO2} sowie jene für die VT2 anhand des \acs{EQCO2} oder \acs{VE}/\acs{VCO2}. Wie bereits in Abschnitt 3.3.1 erwähnt, erreichte der RQ dieses Probanden nicht den Wert eins.
-
+Die vierte Beispielgrafik in Abb. \ref{pic:pic21} zeigt die Ergebnisse des Probanden 21m analog zu Abb. \ref{pic:pic16} inklusive der Schwellenbestimmung der Software. Dieser Proband bewältigte zehn Belastungsstufen. Im 6. Feld ist eine schwankende Steigung der \acs{VO2} in Relation zur Belastung zwischen Stufe 2 und 5 erkennbar. Diese Schwankungen tauchen auch im V-Slope und bei \acs{VE}/\acs{VCO2} sowie beim RQ auf. Auch hier unterscheiden sich die Bestimmungen für die VT1 durch den V-Slope und das \acs{EQO2} sowie jene für die VT2 anhand des \acs{EQCO2} oder \acs{VE}/\acs{VCO2}. Wie bereits in Abschnitt 3.3.1 erwähnt, erreichte der RQ dieses Probanden nicht den Wert eins.
+%
 \section{Ergebnisse der Schwellenbestimmung}
-
+%
 \subsection{Ergebnisse für die VT1}
 %
 \begin{table}[H]
@@ -172,14 +172,14 @@ Abb. \ref{pic:pic22} zeigt die Netzdiagramme für die VT1. Abb. \ref{subpic:pic1
 	\centering
 	\begin{subfigure}[c]{0.45\textwidth}
 		\centering
-		\includegraphics[scale=0.73]{Bilder/v-slope_net}
+		\includegraphics[scale=0.7]{Bilder/v-slope_net}
 			\subcaption[Vergleich der VT1-Bestimmungen durch V-Slope]{Vergleich der VT1-Bestimmungen durch V-Slope zwischen Ratern und Software; Intervall: \SIrange{0}{160}{\per\minute}}
 			\label{subpic:pic1}
 	\end{subfigure}%
 	\hfil
 	\begin{subfigure}[c]{0.45\textwidth}
 		\centering
-		\includegraphics[scale=0.73]{Bilder/eqo2_net}
+		\includegraphics[scale=0.7]{Bilder/eqo2_net}
 			\subcaption[Vergleich der VT1-Bestimmungen durch das \acs{EQO2}]{Vergleich der VT1-Bestimmungen durch das \acs{EQO2} zwischen Ratern und Software; Intervall: \SIrange{0}{180}{\per\minute}}
 			\label{subpic:pic2}
 	\end{subfigure}
@@ -203,7 +203,7 @@ Abb. \ref{pic:pic22} zeigt die Netzdiagramme für die VT1. Abb. \ref{subpic:pic1
 %
 Um zu analysieren, wie stark die Ergebnisse der Rater von denen der Software im Mittel differieren, wurden für beide Methoden Punktdiagramme erstellt, in denen die Differenzen aus den gemittelten VT1-Werten der Rater und der Software gegen die Gesamtmittelwerte für alle 28 Personen aufgetragen wurden. In Abb. \ref{pic:pic23} ist das Diagramm für die V-Slope-Methode abgebildet. Der Mittelwert der Differenzen zwischen Ratern und Software ist als rote Linie ins Diagramm einfügt. Die Werte für die VT1, die von Ratern und Software mittels V-Slope bestimmt wurden, unterscheiden sich durchschnittlich um $3,89$ Schläge pro Minute. Durch Vergleich der Differenzwerte wurde die \ac{SD} bestimmt. Diese beträgt für den V-Slope $\pm$14 \si{\per\minute}.\\
 Abb. \ref{pic:pic24} zeigt das Diagramm für die \acs{EQO2}-Methode mit den Differenzen zwischen Ratern und Software. Dort beträgt diese im Mittel \SI{7,98}{\per\minute} bei einer \acs{SD} von ebenfalls $\pm$14 \si{\per\minute}.
-
+%
 \subsection{Ergebnisse für VT2}
 %
 \begin{table}[H]
@@ -257,14 +257,14 @@ In Tab. \ref{tab:tabelle6} sind die Werte für die \acs{HF} eingetragen, an dene
 	\centering
 	\begin{subfigure}[c]{0.45\textwidth}
 		\centering
-		\includegraphics[scale=0.73]{Bilder/eqco2_net}
+		\includegraphics[scale=0.7]{Bilder/eqco2_net}
 		\subcaption[Vergleich der VT2-Bestimmungen durch das \acs{EQCO2}]{Vergleich der VT2-Bestimmungen durch das \acs{EQCO2} zwischen Ratern und Software; Intervall: \SIrange{0}{250}{\per\minute}}
 		\label{subpic:pic3}
 	\end{subfigure}%
 	\hfil
 	\begin{subfigure}[c]{0.45\textwidth}
 		\centering
-		\includegraphics[scale=0.73]{Bilder/ve_vco2_net}
+		\includegraphics[scale=0.7]{Bilder/ve_vco2_net}
 		\subcaption[Vergleich der VT2-Bestimmungen durch \acs{VE}/\acs{VCO2}]{Vergleich der VT2-Bestimmungen durch \acs{VE}/\acs{VCO2} zwischen Ratern und Software; Intervall: \SIrange{0}{250}{\per\minute}}
 		\label{subpic:pic4}
 	\end{subfigure}

@@ -24,38 +24,38 @@
 \contentsline {section}{\numberline {2.2}Durchf\IeC {\"u}hrung der Messungen}{15}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Vorbereitung \& Erwartungswerte}{15}{subsection.2.2.1}
 \contentsline {subsubsection}{\nonumberline Berechnung der maximalen Soll-Belastungsintensit\IeC {\"a}t}{16}{section*.42}
-\contentsline {subsubsection}{\nonumberline Individuelles Belastungsprotokoll}{17}{section*.44}
-\contentsline {subsubsection}{\nonumberline Abbruchkriterien}{18}{section*.46}
+\contentsline {subsubsection}{\nonumberline Individuelles Belastungsprotokoll}{16}{section*.44}
+\contentsline {subsubsection}{\nonumberline Abbruchkriterien}{17}{section*.46}
 \contentsline {subsection}{\numberline {2.2.2}Leerlastphase}{18}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{19}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{18}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Datenverarbeitung \& Generierung der Plots}{21}{section.2.3}
 \contentsline {section}{\numberline {2.4}Auswertung \& Referenzierung der Ergebnisse}{21}{section.2.4}
-\contentsline {section}{\numberline {2.5}Probandendaten}{22}{section.2.5}
-\contentsline {chapter}{\numberline {3}Resultate}{25}{chapter.3}
-\contentsline {section}{\numberline {3.1}Grafiken zur Bestimmung der Schwellen}{27}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Manuelle Bestimmung}{27}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Algorithmische Bestimmung}{28}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Ergebnisse der Schwellenbestimmung}{33}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Ergebnisse f\IeC {\"u}r die VT1}{33}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Ergebnisse f\IeC {\"u}r VT2}{37}{subsection.3.2.2}
-\contentsline {chapter}{\numberline {4}Auswertung}{41}{chapter.4}
-\contentsline {section}{\numberline {4.1}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{41}{section.4.1}
-\contentsline {section}{\numberline {4.2}Evaluierung der Schwellenbestimmung}{42}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Evaluierung der VT1}{43}{subsection.4.2.1}
-\contentsline {subsubsection}{\nonumberline Gute Ergebnisse}{43}{section*.74}
-\contentsline {subsubsection}{\nonumberline Kritische Ergebnisse}{44}{section*.75}
-\contentsline {subsection}{\numberline {4.2.2}Evaluierung der VT2}{45}{subsection.4.2.2}
-\contentsline {subsubsection}{\nonumberline Gute Ergebnisse}{45}{section*.76}
-\contentsline {subsubsection}{\nonumberline Kritische Ergebnisse}{47}{section*.78}
-\contentsline {chapter}{\numberline {5}Diskussion}{49}{chapter.5}
-\contentsline {section}{\numberline {5.1}Potentielle Fehlerquellen}{50}{section.5.1}
-\contentsline {subsection}{\numberline {5.1.1}Probandenbedingte Faktoren}{50}{subsection.5.1.1}
-\contentsline {subsection}{\numberline {5.1.2}Anwenderbedingte Faktoren}{50}{subsection.5.1.2}
-\contentsline {subsection}{\numberline {5.1.3}Umweltbedingte Faktoren}{51}{subsection.5.1.3}
-\contentsline {section}{\numberline {5.2}Optimale Methode}{51}{section.5.2}
-\contentsline {section}{\numberline {5.3}Problematik von RQ = 1}{52}{section.5.3}
-\contentsline {section}{\numberline {5.4}Limitation}{53}{section.5.4}
-\contentsline {section}{\numberline {5.5}Fazit und Handlungsempfehlung}{53}{section.5.5}
-\contentsline {chapter}{\nonumberline Literatur}{55}{chapter*.81}
-\contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{59}{appendix.A}
-\contentsline {chapter}{\numberline {B}Technische Daten des \acs {VCO2}/\acs {VO2}-Sensor-Moduls}{61}{appendix.B}
+\contentsline {section}{\numberline {2.5}Probandendaten}{21}{section.2.5}
+\contentsline {chapter}{\numberline {3}Resultate}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Grafiken zur Bestimmung der Schwellen}{25}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Manuelle Bestimmung}{25}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Algorithmische Bestimmung}{26}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Ergebnisse der Schwellenbestimmung}{31}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Ergebnisse f\IeC {\"u}r die VT1}{31}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Ergebnisse f\IeC {\"u}r VT2}{35}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}Diskussion}{39}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spiroergometrie mit dem metabolicscan}{39}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{40}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Evaluierung der Methoden zur Schwellenbestimmung}{41}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}\acs {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}\acs {VE}/\acs {VCO2} als geeignete Referenzmethode}{43}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{44}{subsection.4.2.3}
+\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.75}
+\contentsline {subsubsection}{\nonumberline \acs {EQO2}-Methode}{45}{section*.76}
+\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{45}{section*.77}
+\contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{46}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{46}{section.4.3}
+\contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{48}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Probandenbedingte Faktoren}{48}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Anwenderbedingte Faktoren}{49}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{50}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Limitation}{50}{section.4.5}
+\contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{50}{section.4.6}
+\contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.81}
+\contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
+\contentsline {chapter}{\numberline {B}Technische Daten des \acs {VCO2}/\acs {VO2}-Sensor-Moduls}{59}{appendix.B}
