@@ -81,7 +81,7 @@ maxnames=3
 ]{caption}																					% für schönere Unterschriften bei Abbildungen und Tabellen
 
 \usepackage{calc}
-\usepackage[printonlyused]{acronym}
+%\usepackage[printonlyused]{acronym}
 
 \usepackage[section]{placeins}																% Einfügen einer "FloatBarrier"
 
@@ -142,6 +142,24 @@ basicstyle=\footnotesize,
 	filecolor=black,
 	urlcolor=black
 }
+
+\usepackage[nomain,nonumberlist,nopostdot,nogroupskip,style=super,acronym,xindy,toc]{glossaries}
+\newcommand{\myglsgen}[1]{%
+	\glsdoifexists{#1}%
+	{%
+		\ifglsused{#1}{%
+			\acrshort{#1}%
+		}% 
+		{%
+			\glsuseri{#1} (\acrshort{#1})%
+			\glsunset{#1}%
+		}%
+	}%	
+}%
+\setacronymstyle{long-short}
+\makeglossaries
+\usepackage[xindy]{imakeidx}
+\makeindex
 
 \endinput
 

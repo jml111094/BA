@@ -1,31 +1,31 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {ngerman}{}
-\contentsline {chapter}{\nonumberline Abk\IeC {\"u}rzungsverzeichnis}{III}{chapter*.4}
-\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{V}{chapter*.5}
-\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{VII}{chapter*.6}
-\contentsline {chapter}{Abstract}{IX}{chapter*.7}
+\contentsline {chapter}{Abk\IeC {\"u}rzungsverzeichnis}{III}{section*.4}
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{V}{chapter*.6}
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{VII}{chapter*.7}
+\contentsline {chapter}{Abstract}{IX}{chapter*.8}
 \contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Physiologische Grundlagen}{2}{section.1.1}
 \contentsline {subsection}{\numberline {1.1.1}Innere \& \IeC {\"a}u\IeC {\ss }ere Atmung}{2}{subsection.1.1.1}
 \contentsline {subsection}{\numberline {1.1.2}Energiebereitstellung des K\IeC {\"o}rpers}{3}{subsection.1.1.2}
-\contentsline {subsubsection}{\nonumberline Prim\IeC {\"a}re Energiebereitstellung}{3}{section*.14}
-\contentsline {subsubsection}{\nonumberline Sekund\IeC {\"a}re Energiebereitstellung}{4}{section*.20}
+\contentsline {subsubsection}{\nonumberline Prim\IeC {\"a}re Energiebereitstellung}{3}{section*.10}
+\contentsline {subsubsection}{\nonumberline Sekund\IeC {\"a}re Energiebereitstellung}{4}{section*.11}
 \contentsline {section}{\numberline {1.2}Spiroergometrie}{5}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Ventilatorische Schwellen}{5}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Methoden zur Schwellenbestimmung}{6}{subsection.1.2.2}
-\contentsline {subsubsection}{\nonumberline 9-Felder-Grafik nach Prof. Karlman Wasserman}{6}{section*.29}
-\contentsline {subsubsection}{\nonumberline Bestimmung der VT1}{8}{section*.34}
-\contentsline {subsubsection}{\nonumberline Bestimmung der VT2}{9}{section*.36}
-\contentsline {section}{\numberline {1.3}Problemstellung \& Ziele der Arbeit}{11}{section.1.3}
+\contentsline {subsubsection}{\nonumberline 9-Felder-Grafik nach Prof. Karlman Wasserman}{6}{section*.13}
+\contentsline {subsubsection}{\nonumberline Bestimmung der VT1}{8}{section*.16}
+\contentsline {subsubsection}{\nonumberline Bestimmung der VT2}{9}{section*.18}
+\contentsline {section}{\numberline {1.3}Problemstellung \& Ziele der Arbeit}{10}{section.1.3}
 \contentsline {chapter}{\numberline {2}Methode}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Material \& Testaufbau}{13}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Funktionsweise des metabolicscan}{14}{subsection.2.1.1}
 \contentsline {subsection}{\numberline {2.1.2}Messbedingungen}{15}{subsection.2.1.2}
 \contentsline {section}{\numberline {2.2}Durchf\IeC {\"u}hrung der Messungen}{15}{section.2.2}
 \contentsline {subsection}{\numberline {2.2.1}Vorbereitung \& Erwartungswerte}{15}{subsection.2.2.1}
-\contentsline {subsubsection}{\nonumberline Berechnung der maximalen Soll-Belastungsintensit\IeC {\"a}t}{16}{section*.42}
-\contentsline {subsubsection}{\nonumberline Individuelles Belastungsprotokoll}{16}{section*.44}
-\contentsline {subsubsection}{\nonumberline Abbruchkriterien}{17}{section*.46}
+\contentsline {subsubsection}{\nonumberline Berechnung der maximalen Leistung}{16}{section*.21}
+\contentsline {subsubsection}{\nonumberline Individuelles Belastungsprotokoll}{16}{section*.22}
+\contentsline {subsubsection}{\nonumberline Abbruchkriterien}{17}{section*.23}
 \contentsline {subsection}{\numberline {2.2.2}Leerlastphase}{18}{subsection.2.2.2}
 \contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{18}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Datenverarbeitung \& Generierung der Plots}{21}{section.2.3}
@@ -42,12 +42,12 @@
 \contentsline {section}{\numberline {4.1}Spiroergometrie mit dem metabolicscan}{39}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{40}{subsection.4.1.1}
 \contentsline {section}{\numberline {4.2}Evaluierung der Methoden zur Schwellenbestimmung}{41}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}\acs {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}\acs {VE}/\acs {VCO2} als geeignete Referenzmethode}{43}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.1}\gls {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}\gls {VE}/\gls {VCO2} als geeignete Referenzmethode}{43}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{44}{subsection.4.2.3}
-\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.75}
-\contentsline {subsubsection}{\nonumberline \acs {EQO2}-Methode}{45}{section*.76}
-\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{45}{section*.77}
+\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.45}
+\contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{45}{section*.46}
+\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{45}{section*.47}
 \contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{46}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{46}{section.4.3}
 \contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{48}{section.4.4}
@@ -56,6 +56,6 @@
 \contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{50}{subsection.4.4.3}
 \contentsline {section}{\numberline {4.5}Limitation}{50}{section.4.5}
 \contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{50}{section.4.6}
-\contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.81}
+\contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.49}
 \contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
-\contentsline {chapter}{\numberline {B}Technische Daten des \acs {VCO2}/\acs {VO2}-Sensor-Moduls}{59}{appendix.B}
+\contentsline {chapter}{\numberline {B}Technische Daten des \gls {VCO2}/\gls {VO2}-Sensor-Moduls}{59}{appendix.B}

@@ -1,0 +1,2130 @@
+\ifglsentryexists{CCPS}{}%
+{%
+\gls@defglossaryentry{CCPS}%
+{%
+name={cardioscan Checkpoint Software},%
+sort={cardioscan Checkpoint Software},%
+type={acronym},%
+first={\protect \newacronym \glsspace (cardioscan Checkpoint Software)},%
+firstplural={\protect \newacronym s\glsspace (cardioscan Checkpoint Softwares)},%
+text={cardioscan Checkpoint Software},%
+plural={cardioscan Checkpoint Softwares},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={cardioscan Checkpoint Software},%
+shortplural={cardioscan Checkpoint Softwares},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VT1}{}%
+{%
+\gls@defglossaryentry{VT1}%
+{%
+name={VT1},%
+sort={VT1},%
+type={acronym},%
+first={1. Ventilatorische Schwelle\glsspace (VT1)},%
+firstplural={1. Ventilatorische Schwelles\glsspace (VT1s)},%
+text={VT1},%
+plural={VT1s},%
+description={1. Ventilatorische Schwelle},%
+descriptionplural={1. Ventilatorische Schwelle\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={1. Ventilatorische Schwelle},%
+longplural={1. Ventilatorische Schwelles},%
+short={VT1},%
+shortplural={VT1s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VT2}{}%
+{%
+\gls@defglossaryentry{VT2}%
+{%
+name={2. Ventilatorische Schwelle},%
+sort={2. Ventilatorische Schwelle},%
+type={acronym},%
+first={\protect \newacronym \glsspace (2. Ventilatorische Schwelle)},%
+firstplural={\protect \newacronym s\glsspace (2. Ventilatorische Schwelles)},%
+text={2. Ventilatorische Schwelle},%
+plural={2. Ventilatorische Schwelles},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={2. Ventilatorische Schwelle},%
+shortplural={2. Ventilatorische Schwelles},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RQ}{}%
+{%
+\gls@defglossaryentry{RQ}%
+{%
+name={RQ},%
+sort={RQ},%
+type={acronym},%
+first={Respiratorischer Quotient\glsspace (RQ)},%
+firstplural={Respiratorischer Quotients\glsspace (RQs)},%
+text={RQ},%
+plural={RQs},%
+description={Respiratorischer Quotient},%
+descriptionplural={Respiratorischer Quotient\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Respiratorischer Quotient},%
+longplural={Respiratorischer Quotients},%
+short={RQ},%
+shortplural={RQs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CO2}{}%
+{%
+\gls@defglossaryentry{CO2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={C\glsspace ([)},%
+firstplural={Cs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={C},%
+descriptionplural={C\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={C},%
+longplural={Cs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{O2}{}%
+{%
+\gls@defglossaryentry{O2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={O\glsspace ([)},%
+firstplural={Os\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={O},%
+descriptionplural={O\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={O},%
+longplural={Os},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VCO2}{}%
+{%
+\gls@defglossaryentry{VCO2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={\.\glsspace ([)},%
+firstplural={\.s\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={\.},%
+descriptionplural={\.\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\.},%
+longplural={\.s},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VO2}{}%
+{%
+\gls@defglossaryentry{VO2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={\.\glsspace ([)},%
+firstplural={\.s\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={\.},%
+descriptionplural={\.\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\.},%
+longplural={\.s},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ATP}{}%
+{%
+\gls@defglossaryentry{ATP}%
+{%
+name={Adenosintriphosphat},%
+sort={Adenosintriphosphat},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Adenosintriphosphat)},%
+firstplural={\protect \newacronym s\glsspace (Adenosintriphosphats)},%
+text={Adenosintriphosphat},%
+plural={Adenosintriphosphats},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Adenosintriphosphat},%
+shortplural={Adenosintriphosphats},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ADP}{}%
+{%
+\gls@defglossaryentry{ADP}%
+{%
+name={ADP},%
+sort={ADP},%
+type={acronym},%
+first={Adenosindiphosphat\glsspace (ADP)},%
+firstplural={Adenosindiphosphats\glsspace (ADPs)},%
+text={ADP},%
+plural={ADPs},%
+description={Adenosindiphosphat},%
+descriptionplural={Adenosindiphosphat\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Adenosindiphosphat},%
+longplural={Adenosindiphosphats},%
+short={ADP},%
+shortplural={ADPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{P}{}%
+{%
+\gls@defglossaryentry{P}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={P\glsspace ([)},%
+firstplural={Ps\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={P},%
+descriptionplural={P\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={P},%
+longplural={Ps},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{H2O}{}%
+{%
+\gls@defglossaryentry{H2O}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={H\glsspace ([)},%
+firstplural={Hs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={H},%
+descriptionplural={H\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={H},%
+longplural={Hs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{H+}{}%
+{%
+\gls@defglossaryentry{H+}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={H\glsspace ([)},%
+firstplural={Hs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={H},%
+descriptionplural={H\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={H},%
+longplural={Hs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CrP}{}%
+{%
+\gls@defglossaryentry{CrP}%
+{%
+name={Kreatinphosphat},%
+sort={Kreatinphosphat},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Kreatinphosphat)},%
+firstplural={\protect \newacronym s\glsspace (Kreatinphosphats)},%
+text={Kreatinphosphat},%
+plural={Kreatinphosphats},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Kreatinphosphat},%
+shortplural={Kreatinphosphats},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Cr}{}%
+{%
+\gls@defglossaryentry{Cr}%
+{%
+name={Cr},%
+sort={Cr},%
+type={acronym},%
+first={Kreatin\glsspace (Cr)},%
+firstplural={Kreatins\glsspace (Crs)},%
+text={Cr},%
+plural={Crs},%
+description={Kreatin},%
+descriptionplural={Kreatin\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Kreatin},%
+longplural={Kreatins},%
+short={Cr},%
+shortplural={Crs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NADH}{}%
+{%
+\gls@defglossaryentry{NADH}%
+{%
+name={Nicotinamidadenindinukleotid},%
+sort={Nicotinamidadenindinukleotid},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Nicotinamidadenindinukleotid)},%
+firstplural={\protect \newacronym s\glsspace (Nicotinamidadenindinukleotids)},%
+text={Nicotinamidadenindinukleotid},%
+plural={Nicotinamidadenindinukleotids},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Nicotinamidadenindinukleotid},%
+shortplural={Nicotinamidadenindinukleotids},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HLa}{}%
+{%
+\gls@defglossaryentry{HLa}%
+{%
+name={HLa},%
+sort={HLa},%
+type={acronym},%
+first={Milchs\IeC {\"a}ure\glsspace (HLa)},%
+firstplural={Milchs\IeC {\"a}ures\glsspace (HLas)},%
+text={HLa},%
+plural={HLas},%
+description={Milchsäure},%
+descriptionplural={Milchsäure\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Milchs\IeC {\"a}ure},%
+longplural={Milchs\IeC {\"a}ures},%
+short={HLa},%
+shortplural={HLas},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{La-}{}%
+{%
+\gls@defglossaryentry{La-}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={L\glsspace ([)},%
+firstplural={Ls\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={L},%
+descriptionplural={L\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={L},%
+longplural={Ls},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{LDH}{}%
+{%
+\gls@defglossaryentry{LDH}%
+{%
+name={Laktatdehydrogenase},%
+sort={Laktatdehydrogenase},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Laktatdehydrogenase)},%
+firstplural={\protect \newacronym s\glsspace (Laktatdehydrogenases)},%
+text={Laktatdehydrogenase},%
+plural={Laktatdehydrogenases},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Laktatdehydrogenase},%
+shortplural={Laktatdehydrogenases},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HCO3-}{}%
+{%
+\gls@defglossaryentry{HCO3-}%
+{%
+name={HCO\textsubscript {3}\textsuperscript {-}},%
+sort={HCO\textsubscript {3}\textsuperscript {-}},%
+type={acronym},%
+first={Bicarbonat\glsspace (HCO\protect \textsubscript {3}\protect \textsuperscript {-})},%
+firstplural={Bicarbonats\glsspace (HCO\protect \textsubscript {3}\protect \textsuperscript {-}s)},%
+text={HCO\protect \textsubscript {3}\protect \textsuperscript {-}},%
+plural={HCO\protect \textsubscript {3}\protect \textsuperscript {-}s},%
+description={Bicarbonat},%
+descriptionplural={Bicarbonat\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Bicarbonat},%
+longplural={Bicarbonats},%
+short={HCO\protect \textsubscript {3}\protect \textsuperscript {-}},%
+shortplural={HCO\protect \textsubscript {3}\protect \textsuperscript {-}s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{H2CO3}{}%
+{%
+\gls@defglossaryentry{H2CO3}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={H\glsspace ([)},%
+firstplural={Hs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={H},%
+descriptionplural={H\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={H},%
+longplural={Hs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{RCP}{}%
+{%
+\gls@defglossaryentry{RCP}%
+{%
+name={Respiratorischer Kompensationspunkt nach Wasserman (1981)},%
+sort={Respiratorischer Kompensationspunkt nach Wasserman (1981)},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Respiratorischer Kompensationspunkt nach Wasserman (1981))},%
+firstplural={\protect \newacronym s\glsspace (Respiratorischer Kompensationspunkt nach Wasserman (1981)s)},%
+text={Respiratorischer Kompensationspunkt nach Wasserman (1981)},%
+plural={Respiratorischer Kompensationspunkt nach Wasserman (1981)s},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Respiratorischer Kompensationspunkt nach Wasserman (1981)},%
+shortplural={Respiratorischer Kompensationspunkt nach Wasserman (1981)s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{MLSS}{}%
+{%
+\gls@defglossaryentry{MLSS}%
+{%
+name={MLSS},%
+sort={MLSS},%
+type={acronym},%
+first={Maximales Laktat-Steady-State\glsspace (MLSS)},%
+firstplural={Maximales Laktat-Steady-States\glsspace (MLSSs)},%
+text={MLSS},%
+plural={MLSSs},%
+description={Maximales Laktat-Steady-State},%
+descriptionplural={Maximales Laktat-Steady-State\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Maximales Laktat-Steady-State},%
+longplural={Maximales Laktat-Steady-States},%
+short={MLSS},%
+shortplural={MLSSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VE}{}%
+{%
+\gls@defglossaryentry{VE}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={\.\glsspace ([)},%
+firstplural={\.s\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={\.},%
+descriptionplural={\.\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\.},%
+longplural={\.s},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{AMV}{}%
+{%
+\gls@defglossaryentry{AMV}%
+{%
+name={Atemminutenvolumen},%
+sort={Atemminutenvolumen},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Atemminutenvolumen)},%
+firstplural={\protect \newacronym s\glsspace (Atemminutenvolumens)},%
+text={Atemminutenvolumen},%
+plural={Atemminutenvolumens},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Atemminutenvolumen},%
+shortplural={Atemminutenvolumens},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FIO2}{}%
+{%
+\gls@defglossaryentry{FIO2}%
+{%
+name={FIO\textsubscript {2}},%
+sort={FIO\textsubscript {2}},%
+type={acronym},%
+first={Fraktion des inspirierten Sauerstoffs\glsspace (FIO\protect \textsubscript {2})},%
+firstplural={Fraktion des inspirierten Sauerstoffss\glsspace (FIO\protect \textsubscript {2}s)},%
+text={FIO\protect \textsubscript {2}},%
+plural={FIO\protect \textsubscript {2}s},%
+description={Fraktion des inspirierten Sauerstoffs},%
+descriptionplural={Fraktion des inspirierten Sauerstoffs\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Fraktion des inspirierten Sauerstoffs},%
+longplural={Fraktion des inspirierten Sauerstoffss},%
+short={FIO\protect \textsubscript {2}},%
+shortplural={FIO\protect \textsubscript {2}s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FEO2}{}%
+{%
+\gls@defglossaryentry{FEO2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={F\glsspace ([)},%
+firstplural={Fs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={F},%
+descriptionplural={F\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={F},%
+longplural={Fs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FECO2}{}%
+{%
+\gls@defglossaryentry{FECO2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={F\glsspace ([)},%
+firstplural={Fs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={F},%
+descriptionplural={F\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={F},%
+longplural={Fs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{COPD}{}%
+{%
+\gls@defglossaryentry{COPD}%
+{%
+name={chronisch obstruktive Lungenerkrankung},%
+sort={chronisch obstruktive Lungenerkrankung},%
+type={acronym},%
+first={\protect \newacronym \glsspace (chronisch obstruktive Lungenerkrankung)},%
+firstplural={\protect \newacronym s\glsspace (chronisch obstruktive Lungenerkrankungs)},%
+text={chronisch obstruktive Lungenerkrankung},%
+plural={chronisch obstruktive Lungenerkrankungs},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={chronisch obstruktive Lungenerkrankung},%
+shortplural={chronisch obstruktive Lungenerkrankungs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EQCO2}{}%
+{%
+\gls@defglossaryentry{EQCO2}%
+{%
+name={EQCO\textsubscript {2}},%
+sort={EQCO\textsubscript {2}},%
+type={acronym},%
+first={Kohlenstoffdioxid-\IeC {\"A}quivalent\glsspace (EQCO\protect \textsubscript {2})},%
+firstplural={Kohlenstoffdioxid-\IeC {\"A}quivalents\glsspace (EQCO\protect \textsubscript {2}s)},%
+text={EQCO\protect \textsubscript {2}},%
+plural={EQCO\protect \textsubscript {2}s},%
+description={Kohlenstoffdioxid-Äquivalent},%
+descriptionplural={Kohlenstoffdioxid-Äquivalent\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Kohlenstoffdioxid-\IeC {\"A}quivalent},%
+longplural={Kohlenstoffdioxid-\IeC {\"A}quivalents},%
+short={EQCO\protect \textsubscript {2}},%
+shortplural={EQCO\protect \textsubscript {2}s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EQO2}{}%
+{%
+\gls@defglossaryentry{EQO2}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={E\glsspace ([)},%
+firstplural={Es\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={E},%
+descriptionplural={E\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={E},%
+longplural={Es},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{W}{}%
+{%
+\gls@defglossaryentry{W}%
+{%
+name={Leistung},%
+sort={Leistung},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Leistung)},%
+firstplural={\protect \newacronym s\glsspace (Leistungs)},%
+text={Leistung},%
+plural={Leistungs},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Leistung},%
+shortplural={Leistungs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{WL}{}%
+{%
+\gls@defglossaryentry{WL}%
+{%
+name={WL},%
+sort={WL},%
+type={acronym},%
+first={"`work load"', Leistung bzw. Belastungsintensit\IeC {\"a}t\glsspace (WL)},%
+firstplural={"`work load"', Leistung bzw. Belastungsintensit\IeC {\"a}ts\glsspace (WLs)},%
+text={WL},%
+plural={WLs},%
+description={"`work load"', Leistung bzw. Belastungsintensität},%
+descriptionplural={"`work load"', Leistung bzw. Belastungsintensität\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={"`work load"', Leistung bzw. Belastungsintensit\IeC {\"a}t},%
+longplural={"`work load"', Leistung bzw. Belastungsintensit\IeC {\"a}ts},%
+short={WL},%
+shortplural={WLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{POW}{}%
+{%
+\gls@defglossaryentry{POW}%
+{%
+name={Punkt des maximalen Wirkungsgrades nach Hollmann (1959)},%
+sort={Punkt des maximalen Wirkungsgrades nach Hollmann (1959)},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Punkt des maximalen Wirkungsgrades nach Hollmann (1959))},%
+firstplural={\protect \newacronym s\glsspace (Punkt des maximalen Wirkungsgrades nach Hollmann (1959)s)},%
+text={Punkt des maximalen Wirkungsgrades nach Hollmann (1959)},%
+plural={Punkt des maximalen Wirkungsgrades nach Hollmann (1959)s},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Punkt des maximalen Wirkungsgrades nach Hollmann (1959)},%
+shortplural={Punkt des maximalen Wirkungsgrades nach Hollmann (1959)s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EKG}{}%
+{%
+\gls@defglossaryentry{EKG}%
+{%
+name={EKG},%
+sort={EKG},%
+type={acronym},%
+first={Elektrokardiogramm\glsspace (EKG)},%
+firstplural={Elektrokardiogramms\glsspace (EKGs)},%
+text={EKG},%
+plural={EKGs},%
+description={Elektrokardiogramm},%
+descriptionplural={Elektrokardiogramm\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Elektrokardiogramm},%
+longplural={Elektrokardiogramms},%
+short={EKG},%
+shortplural={EKGs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HF}{}%
+{%
+\gls@defglossaryentry{HF}%
+{%
+name={Herzfrequenz},%
+sort={Herzfrequenz},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Herzfrequenz)},%
+firstplural={\protect \newacronym s\glsspace (Herzfrequenzs)},%
+text={Herzfrequenz},%
+plural={Herzfrequenzs},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Herzfrequenz},%
+shortplural={Herzfrequenzs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CSI}{}%
+{%
+\gls@defglossaryentry{CSI}%
+{%
+name={CSI},%
+sort={CSI},%
+type={acronym},%
+first={Cardio-Stress-Index\glsspace (CSI)},%
+firstplural={Cardio-Stress-Indexs\glsspace (CSIs)},%
+text={CSI},%
+plural={CSIs},%
+description={Cardio-Stress-Index},%
+descriptionplural={Cardio-Stress-Index\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Cardio-Stress-Index},%
+longplural={Cardio-Stress-Indexs},%
+short={CSI},%
+shortplural={CSIs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SHIP}{}%
+{%
+\gls@defglossaryentry{SHIP}%
+{%
+name={Study of Health in Pomerania},%
+sort={Study of Health in Pomerania},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Study of Health in Pomerania)},%
+firstplural={\protect \newacronym s\glsspace (Study of Health in Pomeranias)},%
+text={Study of Health in Pomerania},%
+plural={Study of Health in Pomeranias},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Study of Health in Pomerania},%
+shortplural={Study of Health in Pomeranias},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Wmax}{}%
+{%
+\gls@defglossaryentry{Wmax}%
+{%
+name={W\textsubscript {max}},%
+sort={W\textsubscript {max}},%
+type={acronym},%
+first={maximale Leistung\glsspace (W\protect \textsubscript {max})},%
+firstplural={maximale Leistungs\glsspace (W\protect \textsubscript {max}s)},%
+text={W\protect \textsubscript {max}},%
+plural={W\protect \textsubscript {max}s},%
+description={maximale Leistung},%
+descriptionplural={maximale Leistung\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={maximale Leistung},%
+longplural={maximale Leistungs},%
+short={W\protect \textsubscript {max}},%
+shortplural={W\protect \textsubscript {max}s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{Wstart}{}%
+{%
+\gls@defglossaryentry{Wstart}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={W\glsspace ([)},%
+firstplural={Ws\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={W},%
+descriptionplural={W\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={W},%
+longplural={Ws},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{WHO}{}%
+{%
+\gls@defglossaryentry{WHO}%
+{%
+name={Weltgesundheitsorganisation},%
+sort={Weltgesundheitsorganisation},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Weltgesundheitsorganisation)},%
+firstplural={\protect \newacronym s\glsspace (Weltgesundheitsorganisations)},%
+text={Weltgesundheitsorganisation},%
+plural={Weltgesundheitsorganisations},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Weltgesundheitsorganisation},%
+shortplural={Weltgesundheitsorganisations},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{BAL}{}%
+{%
+\gls@defglossaryentry{BAL}%
+{%
+name={BAL},%
+sort={BAL},%
+type={acronym},%
+first={Bundesausschuss Leistungssport\glsspace (BAL)},%
+firstplural={Bundesausschuss Leistungssports\glsspace (BALs)},%
+text={BAL},%
+plural={BALs},%
+description={Bundesausschuss Leistungssport},%
+descriptionplural={Bundesausschuss Leistungssport\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Bundesausschuss Leistungssport},%
+longplural={Bundesausschuss Leistungssports},%
+short={BAL},%
+shortplural={BALs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{AF}{}%
+{%
+\gls@defglossaryentry{AF}%
+{%
+name={Atemfrequenz},%
+sort={Atemfrequenz},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Atemfrequenz)},%
+firstplural={\protect \newacronym s\glsspace (Atemfrequenzs)},%
+text={Atemfrequenz},%
+plural={Atemfrequenzs},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Atemfrequenz},%
+shortplural={Atemfrequenzs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CSV}{}%
+{%
+\gls@defglossaryentry{CSV}%
+{%
+name={CSV},%
+sort={CSV},%
+type={acronym},%
+first={Comma-separated values\glsspace (CSV)},%
+firstplural={Comma-separated valuess\glsspace (CSVs)},%
+text={CSV},%
+plural={CSVs},%
+description={Comma-separated values},%
+descriptionplural={Comma-separated values\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Comma-separated values},%
+longplural={Comma-separated valuess},%
+short={CSV},%
+shortplural={CSVs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ID}{}%
+{%
+\gls@defglossaryentry{ID}%
+{%
+name={Identifikator},%
+sort={Identifikator},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Identifikator)},%
+firstplural={\protect \newacronym s\glsspace (Identifikators)},%
+text={Identifikator},%
+plural={Identifikators},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Identifikator},%
+shortplural={Identifikators},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{HFmax}{}%
+{%
+\gls@defglossaryentry{HFmax}%
+{%
+name={HF\textsubscript {max}},%
+sort={HF\textsubscript {max}},%
+type={acronym},%
+first={maximal erreichte Herzfrequenz\glsspace (HF\protect \textsubscript {max})},%
+firstplural={maximal erreichte Herzfrequenzs\glsspace (HF\protect \textsubscript {max}s)},%
+text={HF\protect \textsubscript {max}},%
+plural={HF\protect \textsubscript {max}s},%
+description={maximal erreichte Herzfrequenz},%
+descriptionplural={maximal erreichte Herzfrequenz\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={maximal erreichte Herzfrequenz},%
+longplural={maximal erreichte Herzfrequenzs},%
+short={HF\protect \textsubscript {max}},%
+shortplural={HF\protect \textsubscript {max}s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{VO2max}{}%
+{%
+\gls@defglossaryentry{VO2max}%
+{%
+name={[},%
+sort={[},%
+type={acronym},%
+first={V\glsspace ([)},%
+firstplural={Vs\glsspace ([s)},%
+text={[},%
+plural={[s},%
+description={V},%
+descriptionplural={V\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={V},%
+longplural={Vs},%
+short={[},%
+shortplural={[s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SD}{}%
+{%
+\gls@defglossaryentry{SD}%
+{%
+name={Standardabweichung},%
+sort={Standardabweichung},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Standardabweichung)},%
+firstplural={\protect \newacronym s\glsspace (Standardabweichungs)},%
+text={Standardabweichung},%
+plural={Standardabweichungs},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Standardabweichung},%
+shortplural={Standardabweichungs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{REKOM}{}%
+{%
+\gls@defglossaryentry{REKOM}%
+{%
+name={REKOM},%
+sort={REKOM},%
+type={acronym},%
+first={Regeneratives/Kompensatorisches Training\glsspace (REKOM)},%
+firstplural={Regeneratives/Kompensatorisches Trainings\glsspace (REKOMs)},%
+text={REKOM},%
+plural={REKOMs},%
+description={Regeneratives/Kompensatorisches Training},%
+descriptionplural={Regeneratives/Kompensatorisches Training\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Regeneratives/Kompensatorisches Training},%
+longplural={Regeneratives/Kompensatorisches Trainings},%
+short={REKOM},%
+shortplural={REKOMs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GA1}{}%
+{%
+\gls@defglossaryentry{GA1}%
+{%
+name={Extensives Grundlagentraining},%
+sort={Extensives Grundlagentraining},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Extensives Grundlagentraining)},%
+firstplural={\protect \newacronym s\glsspace (Extensives Grundlagentrainings)},%
+text={Extensives Grundlagentraining},%
+plural={Extensives Grundlagentrainings},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Extensives Grundlagentraining},%
+shortplural={Extensives Grundlagentrainings},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{GA2}{}%
+{%
+\gls@defglossaryentry{GA2}%
+{%
+name={GA2},%
+sort={GA2},%
+type={acronym},%
+first={Intensives Grundlagentraining\glsspace (GA2)},%
+firstplural={Intensives Grundlagentrainings\glsspace (GA2s)},%
+text={GA2},%
+plural={GA2s},%
+description={Intensives Grundlagentraining},%
+descriptionplural={Intensives Grundlagentraining\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Intensives Grundlagentraining},%
+longplural={Intensives Grundlagentrainings},%
+short={GA2},%
+shortplural={GA2s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{EW}{}%
+{%
+\gls@defglossaryentry{EW}%
+{%
+name={Entwicklungsbereich},%
+sort={Entwicklungsbereich},%
+type={acronym},%
+first={\protect \newacronym \glsspace (Entwicklungsbereich)},%
+firstplural={\protect \newacronym s\glsspace (Entwicklungsbereichs)},%
+text={Entwicklungsbereich},%
+plural={Entwicklungsbereichs},%
+description={\newacronym },%
+descriptionplural={\newacronym \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\protect \newacronym },%
+longplural={\protect \newacronym s},%
+short={Entwicklungsbereich},%
+shortplural={Entwicklungsbereichs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FEV1}{}%
+{%
+\gls@defglossaryentry{FEV1}%
+{%
+name={FEV1},%
+sort={FEV1},%
+type={acronym},%
+first={exspiratorische Einsekundenkapazit\IeC {\"a}t (forced expiratory volume in 1 second)\glsspace (FEV1)},%
+firstplural={exspiratorische Einsekundenkapazit\IeC {\"a}t (forced expiratory volume in 1 second)s\glsspace (FEV1s)},%
+text={FEV1},%
+plural={FEV1s},%
+description={exspiratorische Einsekundenkapazität (forced expiratory volume in 1 second)},%
+descriptionplural={exspiratorische Einsekundenkapazität (forced expiratory volume in 1 second)\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={exspiratorische Einsekundenkapazit\IeC {\"a}t (forced expiratory volume in 1 second)},%
+longplural={exspiratorische Einsekundenkapazit\IeC {\"a}t (forced expiratory volume in 1 second)s},%
+short={FEV1},%
+shortplural={FEV1s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{FVC}{}%
+{%
+\gls@defglossaryentry{FVC}%
+{%
+name={forcierte Vitalkapazität},%
+sort={forcierte Vitalkapazität},%
+type={acronym},%
+first={\par \glsspace (forcierte Vitalkapazit\IeC {\"a}t)},%
+firstplural={\par s\glsspace (forcierte Vitalkapazit\IeC {\"a}ts)},%
+text={forcierte Vitalkapazit\IeC {\"a}t},%
+plural={forcierte Vitalkapazit\IeC {\"a}ts},%
+description={\par },%
+descriptionplural={\par \acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={\par },%
+longplural={\par s},%
+short={forcierte Vitalkapazit\IeC {\"a}t},%
+shortplural={forcierte Vitalkapazit\IeC {\"a}ts},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{\glsspace }{}%
+{%
+\gls@defglossaryentry{\glsspace }%
+{%
+name={(},%
+sort={(},%
+type={acronym},%
+first={c\glsspace (()},%
+firstplural={cs\glsspace ((s)},%
+text={(},%
+plural={(s},%
+description={c},%
+descriptionplural={c\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={c},%
+longplural={cs},%
+short={(},%
+shortplural={(s},%
+counter={page},%
+parent={},%
+%
+}%
+}%
