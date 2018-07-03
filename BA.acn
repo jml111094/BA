@@ -341,6 +341,7 @@
 (indexentry :tkey (("\\.{V}O\\textsubscript {2}" "\\glossentry{VO2}") ) :locref "{}{39}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("\\.{V}CO\\textsubscript {2}" "\\glossentry{VCO2}") ) :locref "{}{39}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("CCPS" "\\glossentry{CCPS}") ) :locref "{}{39}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("AF" "\\glossentry{AF}") ) :locref "{}{39}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("O\\textsubscript {2}" "\\glossentry{O2}") ) :locref "{}{39}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("\\.{V}E" "\\glossentry{VE}") ) :locref "{}{39}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("EQO\\textsubscript {2}" "\\glossentry{EQO2}") ) :locref "{}{40}" :attr "pageglsnumberformat" ) 
