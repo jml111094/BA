@@ -59,3 +59,4 @@
 \contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.49}
 \contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
 \contentsline {chapter}{\numberline {B}Technische Daten des \gls {VCO2}/\gls {VO2}-Sensor-Moduls}{59}{appendix.B}
+\contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{65}{appendix.C}
