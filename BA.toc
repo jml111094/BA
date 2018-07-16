@@ -45,18 +45,18 @@
 \contentsline {subsection}{\numberline {4.2.1}\gls {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}\gls {VE}/\gls {VCO2} als geeignete Referenzmethode}{43}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{44}{subsection.4.2.3}
-\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.45}
-\contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{45}{section*.46}
-\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{45}{section*.47}
+\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.46}
+\contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{45}{section*.47}
+\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{46}{section*.48}
 \contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{46}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{47}{section.4.3}
-\contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{48}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Probandenbedingte Faktoren}{48}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Anwenderbedingte Faktoren}{49}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{50}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Limitation}{50}{section.4.5}
-\contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{50}{section.4.6}
-\contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.49}
+\contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{49}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Probandenbedingte Faktoren}{49}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Anwenderbedingte Faktoren}{50}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{51}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Limitation}{51}{section.4.5}
+\contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{51}{section.4.6}
+\contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.50}
 \contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
 \contentsline {chapter}{\numberline {B}Technische Daten des \gls {VCO2}/\gls {VO2}-Sensor-Moduls}{59}{appendix.B}
 \contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{65}{appendix.C}
