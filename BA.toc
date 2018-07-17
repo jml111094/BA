@@ -43,7 +43,7 @@
 \contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{40}{subsection.4.1.1}
 \contentsline {section}{\numberline {4.2}Evaluierung der Methoden zur Schwellenbestimmung}{41}{section.4.2}
 \contentsline {subsection}{\numberline {4.2.1}\gls {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}\gls {VE}/\gls {VCO2} als geeignete Referenzmethode}{43}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}\gls {VE}/\gls {VCO2} als geeignete Referenzmethode}{44}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{44}{subsection.4.2.3}
 \contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.46}
 \contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{45}{section*.47}
