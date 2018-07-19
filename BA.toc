@@ -42,8 +42,8 @@
 \contentsline {section}{\numberline {4.1}Spiroergometrie mit dem metabolicscan}{39}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{40}{subsection.4.1.1}
 \contentsline {section}{\numberline {4.2}Evaluierung der Methoden zur Schwellenbestimmung}{41}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}\gls {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}\gls {VE}/\gls {VCO2} als geeignete Referenzmethode}{44}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.1}\acrshort {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}\acrshort {VE}/\acrshort {VCO2} als geeignete Referenzmethode}{44}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{44}{subsection.4.2.3}
 \contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.46}
 \contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{45}{section*.47}
@@ -58,5 +58,5 @@
 \contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{51}{section.4.6}
 \contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.50}
 \contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
-\contentsline {chapter}{\numberline {B}Technische Daten des \gls {VCO2}/\gls {VO2}-Sensor-Moduls}{59}{appendix.B}
+\contentsline {chapter}{\numberline {B}Technische Daten des \acrshort {CO2}/\acrshort {O2}-Sensor-Moduls}{59}{appendix.B}
 \contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{65}{appendix.C}
