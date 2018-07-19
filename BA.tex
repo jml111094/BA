@@ -5,7 +5,7 @@ paper=a4,
 %BCOR=10mm,
 %DIV=10,
 twoside,
-open=right,
+open=any,
 parskip=half-,
 headinclude=true,
 headsepline,
@@ -42,9 +42,11 @@ ngerman
 	\setcounter{page}{1}
 	\tableofcontents
 	\printglossary[title=Abkürzungsverzeichnis]
-	\clearpage
+	\cleardoublepage
 	\listoffigures
+	\cleardoublepage
 	\listoftables
+	\cleardoublepage
 	\input{Zusammenfassung.tex}
 	
 	\mainmatter

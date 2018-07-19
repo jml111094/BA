@@ -455,5 +455,5 @@
 (indexentry :tkey (("HF" "\\glossentry{HF}") ) :locref "{}{53}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("HF\\textsubscript {max}" "\\glossentry{HFmax}") ) :locref "{}{53}" :attr "pageglsnumberformat" ) 
 (indexentry :tkey (("CCPS" "\\glossentry{CCPS}") ) :locref "{}{53}" :attr "pageglsnumberformat" ) 
-(indexentry :tkey (("CO\\textsubscript {2}" "\\glossentry{CO2}") ) :locref "{}{61}" :attr "pageglsnumberformat" ) 
-(indexentry :tkey (("O\\textsubscript {2}" "\\glossentry{O2}") ) :locref "{}{61}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("CO\\textsubscript {2}" "\\glossentry{CO2}") ) :locref "{}{60}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("O\\textsubscript {2}" "\\glossentry{O2}") ) :locref "{}{60}" :attr "pageglsnumberformat" ) 
