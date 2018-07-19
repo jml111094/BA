@@ -1,15 +1,15 @@
 [0] Config.pm:302> INFO - This is Biber 2.11
 [0] Config.pm:305> INFO - Logfile is 'BA.blg'
-[27] biber-MSWIN64:313> INFO - === 
+[28] biber-MSWIN64:313> INFO - === 
 [57] Biber.pm:371> INFO - Reading 'BA.bcf'
 [142] Biber.pm:854> INFO - Using all citekeys in bib section 0
 [157] Biber.pm:3976> INFO - Processing section 0
-[172] Biber.pm:4136> INFO - Looking for bibtex format file 'Referenzen.bib' for section 0
-[177] bibtex.pm:1500> INFO - LaTeX decoding ...
-[221] bibtex.pm:1316> INFO - Found BibTeX data source 'Referenzen.bib'
-[475] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[475] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
-[475] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
+[173] Biber.pm:4136> INFO - Looking for bibtex format file 'Referenzen.bib' for section 0
+[178] bibtex.pm:1500> INFO - LaTeX decoding ...
+[223] bibtex.pm:1316> INFO - Found BibTeX data source 'Referenzen.bib'
+[476] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[476] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[476] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'de-DE'
 [476] Biber.pm:3810> INFO - No sort tailoring available for locale 'de-DE'
-[506] bbl.pm:617> INFO - Writing 'BA.bbl' with encoding 'UTF-8'
-[523] bbl.pm:720> INFO - Output to BA.bbl
+[510] bbl.pm:617> INFO - Writing 'BA.bbl' with encoding 'UTF-8'
+[528] bbl.pm:720> INFO - Output to BA.bbl
