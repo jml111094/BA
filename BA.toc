@@ -14,9 +14,9 @@
 \contentsline {subsection}{\numberline {1.2.1}Ventilatorische Schwellen}{5}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Methoden zur Schwellenbestimmung}{6}{subsection.1.2.2}
 \contentsline {subsubsection}{\nonumberline 9-Felder-Grafik nach Prof. Karlman Wasserman}{6}{section*.13}
-\contentsline {subsubsection}{\nonumberline Bestimmung der VT1}{8}{section*.16}
-\contentsline {subsubsection}{\nonumberline Bestimmung der VT2}{9}{section*.18}
-\contentsline {section}{\numberline {1.3}Problemstellung \& Ziele der Arbeit}{10}{section.1.3}
+\contentsline {subsubsection}{\nonumberline Bestimmung der VT1}{9}{section*.16}
+\contentsline {subsubsection}{\nonumberline Bestimmung der VT2}{10}{section*.18}
+\contentsline {section}{\numberline {1.3}Problemstellung \& Ziele der Arbeit}{11}{section.1.3}
 \contentsline {chapter}{\numberline {2}Methode}{13}{chapter.2}
 \contentsline {section}{\numberline {2.1}Material \& Testaufbau}{13}{section.2.1}
 \contentsline {subsection}{\numberline {2.1.1}Funktionsweise des metabolicscan}{14}{subsection.2.1.1}
@@ -30,33 +30,33 @@
 \contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{18}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Datenverarbeitung \& Generierung der Plots}{21}{section.2.3}
 \contentsline {section}{\numberline {2.4}Auswertung \& Referenzierung der Ergebnisse}{21}{section.2.4}
-\contentsline {section}{\numberline {2.5}Probandendaten}{21}{section.2.5}
-\contentsline {chapter}{\numberline {3}Resultate}{23}{chapter.3}
-\contentsline {section}{\numberline {3.1}Grafiken zur Bestimmung der Schwellen}{25}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Manuelle Bestimmung}{25}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Algorithmische Bestimmung}{26}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Ergebnisse der Schwellenbestimmung}{31}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Ergebnisse f\IeC {\"u}r die VT1}{31}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Ergebnisse f\IeC {\"u}r VT2}{35}{subsection.3.2.2}
-\contentsline {chapter}{\numberline {4}Diskussion}{39}{chapter.4}
-\contentsline {section}{\numberline {4.1}Spiroergometrie mit dem metabolicscan}{39}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{40}{subsection.4.1.1}
-\contentsline {section}{\numberline {4.2}Evaluierung der Methoden zur Schwellenbestimmung}{41}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}\acrshort {EQCO2} als optimale Methode}{41}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}\acrshort {VE}/\acrshort {VCO2} als geeignete Referenzmethode}{44}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{44}{subsection.4.2.3}
-\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{44}{section*.46}
-\contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{45}{section*.47}
-\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{46}{section*.48}
-\contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{46}{subsection.4.2.4}
-\contentsline {section}{\numberline {4.3}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{47}{section.4.3}
-\contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{49}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Probandenbedingte Faktoren}{49}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Anwenderbedingte Faktoren}{50}{subsection.4.4.2}
-\contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{50}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Limitation}{50}{section.4.5}
-\contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{51}{section.4.6}
-\contentsline {chapter}{\nonumberline Literatur}{53}{chapter*.50}
-\contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
-\contentsline {chapter}{\numberline {B}Technische Daten des \acrshort {CO2}/\acrshort {O2}-Sensor-Moduls}{59}{appendix.B}
-\contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{65}{appendix.C}
+\contentsline {section}{\numberline {2.5}Probandendaten}{22}{section.2.5}
+\contentsline {chapter}{\numberline {3}Resultate}{25}{chapter.3}
+\contentsline {section}{\numberline {3.1}Grafiken zur Bestimmung der Schwellen}{27}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Manuelle Bestimmung}{27}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Algorithmische Bestimmung}{28}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Ergebnisse der Schwellenbestimmung}{33}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Ergebnisse f\IeC {\"u}r die VT1}{33}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Ergebnisse f\IeC {\"u}r VT2}{37}{subsection.3.2.2}
+\contentsline {chapter}{\numberline {4}Diskussion}{41}{chapter.4}
+\contentsline {section}{\numberline {4.1}Spiroergometrie mit dem metabolicscan}{41}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{42}{subsection.4.1.1}
+\contentsline {section}{\numberline {4.2}Evaluierung der Methoden zur Schwellenbestimmung}{43}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}\acrshort {EQCO2} als optimale Methode}{43}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}\acrshort {VE}/\acrshort {VCO2} als geeignete Referenzmethode}{46}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Problematik bei der Bestimmung der VT1}{46}{subsection.4.2.3}
+\contentsline {subsubsection}{\nonumberline V-Slope-Methode}{46}{section*.46}
+\contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{47}{section*.47}
+\contentsline {subsubsection}{\nonumberline Fazit zur VT1}{48}{section*.48}
+\contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{49}{subsection.4.2.4}
+\contentsline {section}{\numberline {4.3}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{49}{section.4.3}
+\contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{51}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Probandenbedingte Faktoren}{51}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Anwenderbedingte Faktoren}{52}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{52}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}Limitation}{52}{section.4.5}
+\contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{53}{section.4.6}
+\contentsline {chapter}{\nonumberline Literatur}{55}{chapter*.50}
+\contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{59}{appendix.A}
+\contentsline {chapter}{\numberline {B}Technische Daten des \acrshort {CO2}/\acrshort {O2}-Sensor-Moduls}{61}{appendix.B}
+\contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{67}{appendix.C}
