@@ -25,9 +25,9 @@
 \contentsline {subsection}{\numberline {2.2.1}Vorbereitung \& Erwartungswerte}{15}{subsection.2.2.1}
 \contentsline {subsubsection}{\nonumberline Berechnung der maximalen Leistung}{16}{section*.21}
 \contentsline {subsubsection}{\nonumberline Individuelles Belastungsprotokoll}{17}{section*.22}
-\contentsline {subsubsection}{\nonumberline Abbruchkriterien}{17}{section*.23}
+\contentsline {subsubsection}{\nonumberline Abbruchkriterien}{18}{section*.23}
 \contentsline {subsection}{\numberline {2.2.2}Leerlastphase}{18}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{18}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.3}Belastungsphase}{19}{subsection.2.2.3}
 \contentsline {section}{\numberline {2.3}Datenverarbeitung \& Generierung der Plots}{21}{section.2.3}
 \contentsline {section}{\numberline {2.4}Auswertung \& Referenzierung der Ergebnisse}{21}{section.2.4}
 \contentsline {section}{\numberline {2.5}Probandendaten}{22}{section.2.5}
@@ -37,7 +37,7 @@
 \contentsline {subsection}{\numberline {3.1.2}Algorithmische Bestimmung}{28}{subsection.3.1.2}
 \contentsline {section}{\numberline {3.2}Ergebnisse der Schwellenbestimmung}{33}{section.3.2}
 \contentsline {subsection}{\numberline {3.2.1}Ergebnisse f\IeC {\"u}r die VT1}{33}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Ergebnisse f\IeC {\"u}r VT2}{37}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.2}Ergebnisse f\IeC {\"u}r die VT2}{37}{subsection.3.2.2}
 \contentsline {chapter}{\numberline {4}Diskussion}{41}{chapter.4}
 \contentsline {section}{\numberline {4.1}Spiroergometrie mit dem metabolicscan}{41}{section.4.1}
 \contentsline {subsection}{\numberline {4.1.1}Kriterien f\IeC {\"u}r die optische Bewertung der Plots}{42}{subsection.4.1.1}
@@ -48,15 +48,15 @@
 \contentsline {subsubsection}{\nonumberline V-Slope-Methode}{46}{section*.46}
 \contentsline {subsubsection}{\nonumberline \gls {EQO2}-Methode}{47}{section*.47}
 \contentsline {subsubsection}{\nonumberline Fazit zur VT1}{48}{section*.48}
-\contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{49}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.4}Problematik von RQ = 1}{48}{subsection.4.2.4}
 \contentsline {section}{\numberline {4.3}Plausibilit\IeC {\"a}tspr\IeC {\"u}fung der Messwerte}{49}{section.4.3}
 \contentsline {section}{\numberline {4.4}Potentielle Fehlerquellen bei der Spiroergometrie}{51}{section.4.4}
 \contentsline {subsection}{\numberline {4.4.1}Probandenbedingte Faktoren}{51}{subsection.4.4.1}
 \contentsline {subsection}{\numberline {4.4.2}Anwenderbedingte Faktoren}{52}{subsection.4.4.2}
 \contentsline {subsection}{\numberline {4.4.3}Umweltbedingte Faktoren}{52}{subsection.4.4.3}
-\contentsline {section}{\numberline {4.5}Limitation}{52}{section.4.5}
+\contentsline {section}{\numberline {4.5}Limitationen}{52}{section.4.5}
 \contentsline {section}{\numberline {4.6}Ausblick und Handlungsempfehlung}{53}{section.4.6}
-\contentsline {chapter}{\nonumberline Literatur}{55}{chapter*.50}
-\contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{58}{appendix.A}
-\contentsline {chapter}{\numberline {B}Technische Daten des \acrshort {CO2}/\acrshort {O2}-Sensor-Moduls}{60}{appendix.B}
-\contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{66}{appendix.C}
+\contentsline {chapter}{\nonumberline Literatur}{54}{chapter*.50}
+\contentsline {chapter}{\numberline {A}Technische Daten des Flowsensors}{57}{appendix.A}
+\contentsline {chapter}{\numberline {B}Technische Daten des \acrshort {CO2}/\acrshort {O2}-Sensor-Moduls}{59}{appendix.B}
+\contentsline {chapter}{\numberline {C}Programmcode des MATLAB-Programms}{65}{appendix.C}
